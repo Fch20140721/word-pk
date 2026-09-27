@@ -1,0 +1,5442 @@
+{
+ "guitar": {
+  "uk": "ɡɪˈtɑː(r)",
+  "us": "ɡɪˈtɑːr"
+ },
+ "honest": {
+  "uk": "ˈɒnɪst",
+  "us": "ˈɑːnɪst"
+ },
+ "patient": {
+  "uk": "ˈpeɪʃ(ə)nt",
+  "us": "ˈpeɪʃ(ə)nt"
+ },
+ "improve": {
+  "uk": "ɪmˈpruːv",
+  "us": "ɪmˈpruːv"
+ },
+ "confident": {
+  "uk": "ˈkɒnfɪdənt",
+  "us": "ˈkɑːnfɪdənt"
+ },
+ "courage": {
+  "uk": "ˈkʌrɪdʒ",
+  "us": "ˈkɜːrɪdʒ"
+ },
+ "friendship": {
+  "uk": "ˈfrendʃɪp",
+  "us": "ˈfrendʃɪp"
+ },
+ "admiration": {
+  "uk": "ˌædməˈreɪʃ(ə)n",
+  "us": "ˌædməˈreɪʃ(ə)n"
+ },
+ "respect": {
+  "uk": "rɪˈspekt",
+  "us": "rɪˈspekt"
+ },
+ "support": {
+  "uk": "səˈpɔːt",
+  "us": "səˈpɔːrt"
+ },
+ "trust": {
+  "uk": "trʌst",
+  "us": "trʌst"
+ },
+ "survey": {
+  "uk": "ˈsɜːveɪ",
+  "us": "ˈsɜːrveɪ"
+ },
+ "personal": {
+  "uk": "ˈpɜːsən(ə)l",
+  "us": "ˈpɜːrsən(ə)l"
+ },
+ "quality": {
+  "uk": "ˈkwɒləti",
+  "us": "ˈkwɑːləti"
+ },
+ "caring": {
+  "uk": "ˈkeərɪŋ",
+  "us": "ˈkerɪŋ"
+ },
+ "describe": {
+  "uk": "dɪˈskraɪb",
+  "us": "dɪˈskraɪb"
+ },
+ "appearance": {
+  "uk": "əˈpɪərəns",
+  "us": "əˈpɪrəns"
+ },
+ "straight": {
+  "uk": "streɪt",
+  "us": "streɪt"
+ },
+ "dark": {
+  "uk": "dɑːk",
+  "us": "dɑːrk"
+ },
+ "same": {
+  "uk": "seɪm",
+  "us": "seɪm"
+ },
+ "basic": {
+  "uk": "ˈbeɪsɪk",
+  "us": "ˈbeɪsɪk"
+ },
+ "thought": {
+  "uk": "θɔːt",
+  "us": "θɔːt"
+ },
+ "however": {
+  "uk": "haʊˈevə(r)",
+  "us": "haʊˈevər"
+ },
+ "glad": {
+  "uk": "ɡlæd",
+  "us": "ɡlæd"
+ },
+ "rise": {
+  "uk": "raɪz",
+  "us": "raɪz"
+ },
+ "end": {
+  "uk": "end",
+  "us": "end"
+ },
+ "heart": {
+  "uk": "hɑːt",
+  "us": "hɑːrt"
+ },
+ "be good at": {
+  "uk": "",
+  "us": "bi ɡʊd æt"
+ },
+ "turn to somebody for help": {
+  "uk": "",
+  "us": ""
+ },
+ "after school": {
+  "uk": "",
+  "us": ""
+ },
+ "be willing to do something": {
+  "uk": "",
+  "us": ""
+ },
+ "thanks to": {
+  "uk": "",
+  "us": "θæŋks tu"
+ },
+ "count on": {
+  "uk": "",
+  "us": ""
+ },
+ "medium height": {
+  "uk": "",
+  "us": "ˈmiːdiəm haɪt"
+ },
+ "modern dance": {
+  "uk": "ˌmɒdən ˈdɑːns",
+  "us": ""
+ },
+ "take care of": {
+  "uk": "",
+  "us": ""
+ },
+ "watch over": {
+  "uk": "",
+  "us": ""
+ },
+ "rise into": {
+  "uk": "",
+  "us": "raɪz ˈɪntə"
+ },
+ "cry out": {
+  "uk": "",
+  "us": "kraɪ aʊt"
+ },
+ "cry oneself to sleep": {
+  "uk": "",
+  "us": "kraɪ wʌnˈself tu sliːp"
+ },
+ "wake up": {
+  "uk": "ˈweɪk ˌʌp",
+  "us": "ˈweɪk ˌʌp"
+ },
+ "come and go": {
+  "uk": "",
+  "us": ""
+ },
+ "take somebody's place": {
+  "uk": "",
+  "us": ""
+ },
+ "come along": {
+  "uk": "",
+  "us": ""
+ },
+ "geography": {
+  "uk": "dʒiˈɒɡrəfi",
+  "us": "dʒiˈɑːɡrəfi"
+ },
+ "corner": {
+  "uk": "ˈkɔːnə(r)",
+  "us": "ˈkɔːrnər"
+ },
+ "activity": {
+  "uk": "ækˈtɪvəti",
+  "us": "ækˈtɪvəti"
+ },
+ "club": {
+  "uk": "klʌb",
+  "us": "klʌb"
+ },
+ "practise": {
+  "uk": "ˈpræktɪs",
+  "us": "ˈpræktɪs"
+ },
+ "solve": {
+  "uk": "sɒlv",
+  "us": "sɑːlv"
+ },
+ "develop": {
+  "uk": "dɪˈveləp",
+  "us": "dɪˈveləp"
+ },
+ "skill": {
+  "uk": "skɪl",
+  "us": "skɪl"
+ },
+ "teen": {
+  "uk": "tiːn",
+  "us": "tiːn"
+ },
+ "magazine": {
+  "uk": "ˌmæɡəˈziːn",
+  "us": "ˈmæɡəziːn"
+ },
+ "teenager": {
+  "uk": "ˈtiːneɪdʒə(r)",
+  "us": "ˈtiːneɪdʒər"
+ },
+ "greeting": {
+  "uk": "ˈɡriːtɪŋ",
+  "us": "ˈɡriːtɪŋ"
+ },
+ "grade": {
+  "uk": "ɡreɪd",
+  "us": "ɡreɪd"
+ },
+ "energy": {
+  "uk": "ˈenədʒi",
+  "us": "ˈenərdʒi"
+ },
+ "drama": {
+  "uk": "ˈdrɑːmə",
+  "us": "ˈdrɑːmə"
+ },
+ "sincerely": {
+  "uk": "sɪnˈsɪəli",
+  "us": "sɪnˈsɪrli"
+ },
+ "diary": {
+  "uk": "ˈdaɪəri",
+  "us": "ˈdaɪəri"
+ },
+ "project": {
+  "uk": "ˈprɒdʒekt; prəˈdʒekt",
+  "us": "ˈprɑːdʒekt; prəˈdʒekt"
+ },
+ "poster": {
+  "uk": "ˈpəʊstə(r)",
+  "us": "ˈpoʊstər"
+ },
+ "realize": {
+  "uk": "ˈriːəlaɪz",
+  "us": "ˈriːəlaɪz"
+ },
+ "luckily": {
+  "uk": "ˈlʌkɪli",
+  "us": "ˈlʌkɪli"
+ },
+ "just": {
+  "uk": "dʒʌst",
+  "us": "dʒʌst"
+ },
+ "presentation": {
+  "uk": "ˌprez(ə)nˈteɪʃ(ə)n",
+  "us": "ˌpriːz(ə)nˈteɪʃ(ə)n"
+ },
+ "mood": {
+  "uk": "muːd",
+  "us": "muːd"
+ },
+ "mind": {
+  "uk": "maɪnd",
+  "us": "maɪnd"
+ },
+ "pack": {
+  "uk": "pæk",
+  "us": "pæk"
+ },
+ "celebrate": {
+  "uk": "ˈselɪbreɪt",
+  "us": "ˈselɪbreɪt"
+ },
+ "success": {
+  "uk": "səkˈses",
+  "us": "səkˈses"
+ },
+ "rocky": {
+  "uk": "ˈrɒki",
+  "us": "ˈrɑːki"
+ },
+ "do the dishes": {
+  "uk": "",
+  "us": "duː ðə ˈdɪʃɪz"
+ },
+ "junior high school": {
+  "uk": "ˌdʒuːniə ˈhaɪ skuːl",
+  "us": ""
+ },
+ "take part in": {
+  "uk": "",
+  "us": ""
+ },
+ "look forward to": {
+  "uk": "",
+  "us": ""
+ },
+ "daily life": {
+  "uk": "",
+  "us": "ˈdeɪli laɪf"
+ },
+ "go to bed": {
+  "uk": "",
+  "us": ""
+ },
+ "get up": {
+  "uk": "ɡet ʌp",
+  "us": "ɡet ʌp"
+ },
+ "on foot": {
+  "uk": "",
+  "us": ""
+ },
+ "full of energy": {
+  "uk": "",
+  "us": ""
+ },
+ "get...ready for": {
+  "uk": "",
+  "us": ""
+ },
+ "put on": {
+  "uk": "pʊt ɒn",
+  "us": "pʊt ɑːn"
+ },
+ "clean up": {
+  "uk": "ˈkliːn ʌp",
+  "us": "ˈkliːn ʌp"
+ },
+ "pick up": {
+  "uk": "pɪk ʌp",
+  "us": "pɪk ʌp"
+ },
+ "footprint": {
+  "uk": "ˈfʊtprɪnt",
+  "us": "ˈfʊtprɪnt"
+ },
+ "wet": {
+  "uk": "wet",
+  "us": "wet"
+ },
+ "deep": {
+  "uk": "diːp",
+  "us": "diːp"
+ },
+ "sandy": {
+  "uk": "ˈsændi",
+  "us": "ˈsændi"
+ },
+ "kick": {
+  "uk": "kɪk",
+  "us": "kɪk"
+ },
+ "town": {
+  "uk": "taʊn",
+  "us": "taʊn"
+ },
+ "feature": {
+  "uk": "ˈfiːtʃə(r)",
+  "us": "ˈfiːtʃər"
+ },
+ "south": {
+  "uk": "saʊθ",
+  "us": "saʊθ"
+ },
+ "clear": {
+  "uk": "klɪə(r)",
+  "us": "klɪr"
+ },
+ "loudly": {
+  "uk": "ˈlaʊdli",
+  "us": "ˈlaʊdli"
+ },
+ "thunder": {
+  "uk": "ˈθʌndə(r)",
+  "us": "ˈθʌndər"
+ },
+ "lightning": {
+  "uk": "ˈlaɪtnɪŋ",
+  "us": "ˈlaɪtnɪŋ"
+ },
+ "fresh": {
+  "uk": "freʃ",
+  "us": "freʃ"
+ },
+ "gather": {
+  "uk": "ˈɡæðə(r)",
+  "us": "ˈɡæðər"
+ },
+ "peaceful": {
+  "uk": "ˈpiːsf(ə)l",
+  "us": "ˈpiːsf(ə)l"
+ },
+ "snake": {
+  "uk": "sneɪk",
+  "us": "sneɪk"
+ },
+ "through": {
+  "uk": "θruː",
+  "us": "θruː"
+ },
+ "part": {
+  "uk": "pɑːt",
+  "us": "pɑːrt"
+ },
+ "article": {
+  "uk": "ˈɑːtɪk(ə)l",
+  "us": "ˈɑːrtɪk(ə)l"
+ },
+ "reason": {
+  "uk": "ˈriːz(ə)n",
+  "us": "ˈriːz(ə)n"
+ },
+ "alive": {
+  "uk": "əˈlaɪv",
+  "us": "əˈlaɪv"
+ },
+ "Sandcastle": {
+  "uk": "ˈsændkɑːsl",
+  "us": "ˈsændkæsl"
+ },
+ "follow": {
+  "uk": "ˈfɒləʊ",
+  "us": "ˈfɑːloʊ"
+ },
+ "divide": {
+  "uk": "dɪˈvaɪd",
+  "us": "dɪˈvaɪd"
+ },
+ "decide": {
+  "uk": "dɪˈsaɪd",
+  "us": "dɪˈsaɪd"
+ },
+ "crop": {
+  "uk": "krɒp",
+  "us": "krɑːp"
+ },
+ "culture": {
+  "uk": "ˈkʌltʃə(r)",
+  "us": "ˈkʌltʃər"
+ },
+ "local": {
+  "uk": "ˈləʊk(ə)l",
+  "us": "ˈloʊk(ə)l"
+ },
+ "tradition": {
+  "uk": "trəˈdɪʃ(ə)n",
+  "us": "trəˈdɪʃ(ə)n"
+ },
+ "continue": {
+  "uk": "kənˈtɪnjuː",
+  "us": "kənˈtɪnjuː"
+ },
+ "Have picnics": {
+  "uk": "",
+  "us": "hæv ˈpɪknɪks"
+ },
+ "work one's land": {
+  "uk": "",
+  "us": ""
+ },
+ "take a trip": {
+  "uk": "",
+  "us": "teɪk ə trɪp"
+ },
+ "solar term": {
+  "uk": "",
+  "us": ""
+ },
+ "in fact": {
+  "uk": "",
+  "us": "ɪn fækt"
+ },
+ "be divided into": {
+  "uk": "",
+  "us": "bi dɪˈvaɪdɪd ˈɪntə"
+ },
+ "be based on": {
+  "uk": "",
+  "us": ""
+ },
+ "play an important part in": {
+  "uk": "",
+  "us": ""
+ },
+ "system": {
+  "uk": "ˈsɪstəm",
+  "us": "ˈsɪstəm"
+ },
+ "file": {
+  "uk": "faɪl",
+  "us": "faɪl"
+ },
+ "amazing": {
+  "uk": "əˈmeɪzɪŋ",
+  "us": "əˈmeɪzɪŋ"
+ },
+ "planet": {
+  "uk": "ˈplænɪt",
+  "us": "ˈplænɪt"
+ },
+ "billion": {
+  "uk": "ˈbɪljən",
+  "us": "ˈbɪljən"
+ },
+ "cover": {
+  "uk": "ˈkʌvə(r)",
+  "us": "ˈkʌvər"
+ },
+ "area": {
+  "uk": "ˈeəriə",
+  "us": "ˈeriə"
+ },
+ "freezing": {
+  "uk": "ˈfriːzɪŋ",
+  "us": "ˈfriːzɪŋ"
+ },
+ "north": {
+  "uk": "nɔːθ",
+  "us": "nɔːrθ"
+ },
+ "pole": {
+  "uk": "pəʊl",
+  "us": "poʊl"
+ },
+ "desert": {
+  "uk": "ˈdezət",
+  "us": "ˈdezərt"
+ },
+ "metre": {
+  "uk": "ˈmiːtə(r)",
+  "us": "ˈmiːtər"
+ },
+ "reach": {
+  "uk": "riːtʃ",
+  "us": "riːtʃ"
+ },
+ "grain": {
+  "uk": "ɡreɪn",
+  "us": "ɡreɪn"
+ },
+ "wide": {
+  "uk": "waɪd",
+  "us": "waɪd"
+ },
+ "whale": {
+  "uk": "weɪl",
+  "us": "weɪl"
+ },
+ "butterfly": {
+  "uk": "ˈbʌtəflaɪ",
+  "us": "ˈbʌtərflaɪ"
+ },
+ "provide": {
+  "uk": "prəˈvaɪd",
+  "us": "prəˈvaɪd"
+ },
+ "explore": {
+  "uk": "ɪkˈsplɔː(r)",
+  "us": "ɪkˈsplɔːr"
+ },
+ "disappear": {
+  "uk": "ˌdɪsəˈpɪə(r)",
+  "us": "ˌdɪsəˈpɪr"
+ },
+ "plastic": {
+  "uk": "ˈplæstɪk",
+  "us": "ˈplæstɪk"
+ },
+ "pollution": {
+  "uk": "pəˈluːʃ(ə)n",
+  "us": "pəˈluːʃ(ə)n"
+ },
+ "protect": {
+  "uk": "prəˈtekt",
+  "us": "prəˈtekt"
+ },
+ "chemical": {
+  "uk": "ˈkemɪk(ə)l",
+  "us": "ˈkemɪk(ə)l"
+ },
+ "groundwater": {
+  "uk": "ˈɡraʊndwɔːtə(r)",
+  "us": "ˈɡraʊndwɔːtər"
+ },
+ "burn": {
+  "uk": "bɜːn",
+  "us": "bɜːrn"
+ },
+ "oil": {
+  "uk": "ɔɪl",
+  "us": "ɔɪl"
+ },
+ "gas": {
+  "uk": "ɡæs",
+  "us": "ɡæs"
+ },
+ "harmful": {
+  "uk": "ˈhɑːmf(ə)l",
+  "us": "ˈhɑːrmf(ə)l"
+ },
+ "website": {
+  "uk": "ˈwebsaɪt",
+  "us": "ˈwebsaɪt"
+ },
+ "own": {
+  "uk": "əʊn",
+  "us": "oʊn"
+ },
+ "emperor": {
+  "uk": "ˈempərə(r)",
+  "us": "ˈempərər"
+ },
+ "hunt": {
+  "uk": "hʌnt",
+  "us": "hʌnt"
+ },
+ "war": {
+  "uk": "wɔː(r)",
+  "us": "wɔːr"
+ },
+ "sandstorm": {
+  "uk": "ˈsændstɔːm",
+  "us": "ˈsændstɔːrm"
+ },
+ "solution": {
+  "uk": "səˈluːʃ(ə)n",
+  "us": "səˈluːʃ(ə)n"
+ },
+ "blow": {
+  "uk": "bləʊ",
+  "us": "bloʊ"
+ },
+ "generation": {
+  "uk": "ˌdʒenəˈreɪʃ(ə)n",
+  "us": "ˌdʒenəˈreɪʃ(ə)n"
+ },
+ "solar system": {
+  "uk": "ˈsəʊlə sɪstəm",
+  "us": ""
+ },
+ "fact file": {
+  "uk": "",
+  "us": "fækt faɪl"
+ },
+ "be covered by": {
+  "uk": "",
+  "us": ""
+ },
+ "as far as we know": {
+  "uk": "",
+  "us": ""
+ },
+ "sea level": {
+  "uk": "ˈsiː lev(ə)l",
+  "us": "siː ˈlevl"
+ },
+ "what's more": {
+  "uk": "",
+  "us": ""
+ },
+ "provide ... with ...": {
+  "uk": "",
+  "us": ""
+ },
+ "plastic pollution": {
+  "uk": "",
+  "us": "ˈplæstɪk pəˈluːʃn"
+ },
+ "cut down": {
+  "uk": "ˌkʌt ˈdaʊn",
+  "us": "ˌkʌt ˈdaʊn"
+ },
+ "hundreds of": {
+  "uk": "",
+  "us": ""
+ },
+ "blow away": {
+  "uk": "",
+  "us": ""
+ },
+ "spacesuit": {
+  "uk": "ˈspeɪssuːt; ˈspeɪssjuːt",
+  "us": "ˈspeɪssuːt"
+ },
+ "collect": {
+  "uk": "kəˈlekt",
+  "us": "kəˈlekt"
+ },
+ "leave": {
+  "uk": "liːv",
+  "us": "liːv"
+ },
+ "kilometre": {
+  "uk": "kɪˈlɒmɪtə(r)",
+  "us": "kɪˈlɑːmɪtər"
+ },
+ "weak": {
+  "uk": "wiːk",
+  "us": "wiːk"
+ },
+ "tie": {
+  "uk": "taɪ",
+  "us": "taɪ"
+ },
+ "low": {
+  "uk": "ləʊ",
+  "us": "loʊ"
+ },
+ "weigh": {
+  "uk": "weɪ",
+  "us": "weɪ"
+ },
+ "breathe": {
+  "uk": "briːð",
+  "us": "briːð"
+ },
+ "facility": {
+  "uk": "fəˈsɪləti",
+  "us": "fəˈsɪləti"
+ },
+ "adventure": {
+  "uk": "ədˈventʃə(r)",
+  "us": "ədˈventʃər"
+ },
+ "pass": {
+  "uk": "pɑːs",
+  "us": "pæs"
+ },
+ "experiment": {
+  "uk": "ɪkˈsperɪmənt",
+  "us": "ɪkˈsperɪmənt"
+ },
+ "prepare": {
+  "uk": "prɪˈpeə(r)",
+  "us": "prɪˈper"
+ },
+ "dream": {
+  "uk": "driːm",
+  "us": "driːm"
+ },
+ "chance": {
+  "uk": "tʃɑːns",
+  "us": "tʃæns"
+ },
+ "send": {
+  "uk": "send",
+  "us": "send"
+ },
+ "introduction": {
+  "uk": "ˌɪntrəˈdʌkʃn",
+  "us": "ˌɪntrəˈdʌkʃ(ə)n"
+ },
+ "view": {
+  "uk": "vjuː",
+  "us": "vjuː"
+ },
+ "someday": {
+  "uk": "ˈsʌmdeɪ",
+  "us": "ˈsʌmdeɪ"
+ },
+ "experience": {
+  "uk": "ɪkˈspɪəriəns",
+  "us": "ɪkˈspɪriəns"
+ },
+ "lander": {
+  "uk": "ˈlændə(r)",
+  "us": "ˈlændər"
+ },
+ "island": {
+  "uk": "ˈaɪlənd",
+  "us": "ˈaɪlənd"
+ },
+ "ancient": {
+  "uk": "ˈeɪnʃənt",
+  "us": "ˈeɪnʃənt"
+ },
+ "poem": {
+  "uk": "ˈpəʊɪm",
+  "us": "ˈpoʊəm"
+ },
+ "express": {
+  "uk": "ɪkˈspres",
+  "us": "ɪkˈspres"
+ },
+ "determination": {
+  "uk": "dɪˌtɜːmɪˈneɪʃ(ə)n",
+  "us": "dɪˌtɜːrmɪˈneɪʃ(ə)n"
+ },
+ "universe": {
+  "uk": "ˈjuːnɪvɜːs",
+  "us": "ˈjuːnɪvɜːrs"
+ },
+ "already": {
+  "uk": "ɔːlˈredi",
+  "us": "ɔːlˈredi"
+ },
+ "century": {
+  "uk": "ˈsentʃəri",
+  "us": "ˈsentʃəri"
+ },
+ "neighbour": {
+  "uk": "ˈneɪbə(r)",
+  "us": "ˈneɪbər"
+ },
+ "circle": {
+  "uk": "ˈsɜːk(ə)l",
+  "us": "ˈsɜːrk(ə)l"
+ },
+ "surface": {
+  "uk": "ˈsɜːfɪs",
+  "us": "ˈsɜːrfɪs"
+ },
+ "release": {
+  "uk": "rɪˈliːs",
+  "us": "rɪˈliːs"
+ },
+ "kilogram": {
+  "uk": "ˈkɪləɡræm",
+  "us": "ˈkɪləɡræm"
+ },
+ "programme": {
+  "uk": "ˈprəʊɡræm",
+  "us": "ˈproʊɡræm"
+ },
+ "space station": {
+  "uk": "ˈspeɪs steɪʃn",
+  "us": "speɪs ˈsteɪʃn"
+ },
+ "do exercise": {
+  "uk": "",
+  "us": ""
+ },
+ "take photos": {
+  "uk": "",
+  "us": ""
+ },
+ "get into orbit": {
+  "uk": "",
+  "us": ""
+ },
+ "thousands of": {
+  "uk": "",
+  "us": ""
+ },
+ "guide": {
+  "uk": "ɡaɪd",
+  "us": "ɡaɪd"
+ },
+ "east": {
+  "uk": "iːst",
+  "us": "iːst"
+ },
+ "west": {
+  "uk": "west",
+  "us": "west"
+ },
+ "mix": {
+  "uk": "mɪks",
+  "us": "mɪks"
+ },
+ "western": {
+  "uk": "ˈwestən",
+  "us": "ˈwestərn"
+ },
+ "style": {
+  "uk": "staɪl",
+  "us": "staɪl"
+ },
+ "popular": {
+  "uk": "ˈpɒpjələ(r)",
+  "us": "ˈpɑːpjələr"
+ },
+ "site": {
+  "uk": "saɪt",
+  "us": "saɪt"
+ },
+ "across": {
+  "uk": "əˈkrɒs",
+  "us": "əˈkrɔːs"
+ },
+ "adult": {
+  "uk": "ˈædʌlt; əˈdʌlt",
+  "us": "əˈdʌlt; ˈædʌlt"
+ },
+ "senior": {
+  "uk": "ˈsiːniə(r)",
+  "us": "ˈsiːniər"
+ },
+ "customer": {
+  "uk": "ˈkʌstəmə(r)",
+  "us": "ˈkʌstəmər"
+ },
+ "design": {
+  "uk": "dɪˈzaɪn",
+  "us": "dɪˈzaɪn"
+ },
+ "else": {
+  "uk": "els",
+  "us": "els"
+ },
+ "suggestion": {
+  "uk": "səˈdʒestʃən",
+  "us": "səˈdʒestʃən; səɡˈdʒestʃən"
+ },
+ "tip": {
+  "uk": "tɪp",
+  "us": "tɪp"
+ },
+ "historic": {
+  "uk": "hɪˈstɒrɪk",
+  "us": "hɪˈstɔːrɪk"
+ },
+ "list": {
+  "uk": "lɪst",
+  "us": "lɪst"
+ },
+ "landscape": {
+  "uk": "ˈlændskeɪp",
+  "us": "ˈlændskeɪp"
+ },
+ "memory": {
+  "uk": "ˈmeməri",
+  "us": "ˈmeməri"
+ },
+ "general": {
+  "uk": "ˈdʒen(ə)rəl",
+  "us": "ˈdʒen(ə)rəl"
+ },
+ "sight": {
+  "uk": "saɪt",
+  "us": "saɪt"
+ },
+ "natural": {
+  "uk": "ˈnætʃ(ə)rəl",
+  "us": "ˈnætʃ(ə)rəl"
+ },
+ "almost": {
+  "uk": "ˈɔːlməʊst",
+  "us": "ˈɔːlmoʊst"
+ },
+ "become": {
+  "uk": "bɪˈkʌm",
+  "us": "bɪˈkʌm"
+ },
+ "gateway": {
+  "uk": "ˈɡeɪtweɪ",
+  "us": "ˈɡeɪtweɪ"
+ },
+ "influence": {
+  "uk": "ˈɪnfluəns",
+  "us": "ˈɪnfluəns"
+ },
+ "artwork": {
+  "uk": "ˈɑːtwɜːk",
+  "us": "ˈɑːrtwɜːrk"
+ },
+ "painting": {
+  "uk": "ˈpeɪntɪŋ",
+  "us": "ˈpeɪntɪŋ"
+ },
+ "scene": {
+  "uk": "siːn",
+  "us": "siːn"
+ },
+ "wife": {
+  "uk": "waɪf",
+  "us": "waɪf"
+ },
+ "stone": {
+  "uk": "stəʊn",
+  "us": "stoʊn"
+ },
+ "reflection": {
+  "uk": "rɪˈflekʃ(ə)n",
+  "us": "rɪˈflekʃ(ə)n"
+ },
+ "tourist spot": {
+  "uk": "",
+  "us": ""
+ },
+ "light up": {
+  "uk": "",
+  "us": "laɪt ʌp"
+ },
+ "in the centre of": {
+  "uk": "",
+  "us": ""
+ },
+ "be interested in": {
+  "uk": "",
+  "us": "bi ˈɪntrəstɪd ɪn; bi ˈɪntrestɪd ɪn"
+ },
+ "historic site": {
+  "uk": "",
+  "us": ""
+ },
+ "in memory of": {
+  "uk": "",
+  "us": ""
+ },
+ "literature": {
+  "uk": "ˈlɪtrətʃə(r); ˈlɪtərətʃə",
+  "us": "ˈlɪtərətʃʊr; ˈlɪtrətʃər; ˈlɪtrətʃʊr"
+ },
+ "act": {
+  "uk": "ækt",
+  "us": "ækt"
+ },
+ "appreciate": {
+  "uk": "əˈpriːʃieɪt",
+  "us": "əˈpriːʃieɪt"
+ },
+ "join": {
+  "uk": "dʒɔɪn",
+  "us": "dʒɔɪn"
+ },
+ "definitely": {
+  "uk": "ˈdefɪnətli",
+  "us": "ˈdefɪnətli"
+ },
+ "fair": {
+  "uk": "feə(r)",
+  "us": "fer"
+ },
+ "rocket": {
+  "uk": "ˈrɒkɪt",
+  "us": "ˈrɑːkɪt"
+ },
+ "launch": {
+  "uk": "lɔːntʃ",
+  "us": "lɔːntʃ"
+ },
+ "shout": {
+  "uk": "ʃaʊt",
+  "us": "ʃaʊt"
+ },
+ "power": {
+  "uk": "ˈpaʊə(r)",
+  "us": "ˈpaʊər"
+ },
+ "moment": {
+  "uk": "ˈməʊmənt",
+  "us": "ˈmoʊmənt"
+ },
+ "member": {
+  "uk": "ˈmembə(r)",
+  "us": "ˈmembər"
+ },
+ "shape": {
+  "uk": "ʃeɪp",
+  "us": "ʃeɪp"
+ },
+ "hike": {
+  "uk": "haɪk",
+  "us": "haɪk"
+ },
+ "recently": {
+  "uk": "ˈriːs(ə)ntli",
+  "us": "ˈriːs(ə)ntli"
+ },
+ "attend": {
+  "uk": "əˈtend",
+  "us": "əˈtend"
+ },
+ "charity": {
+  "uk": "ˈtʃærəti",
+  "us": "ˈtʃærəti"
+ },
+ "sale": {
+  "uk": "seɪl",
+  "us": "seɪl"
+ },
+ "snack": {
+  "uk": "snæk",
+  "us": "snæk"
+ },
+ "decorate": {
+  "uk": "ˈdekəreɪt",
+  "us": "ˈdekəreɪt"
+ },
+ "difference": {
+  "uk": "ˈdɪfrəns",
+  "us": "ˈdɪfrəns"
+ },
+ "compete": {
+  "uk": "kəmˈpiːt",
+  "us": "kəmˈpiːt"
+ },
+ "event": {
+  "uk": "ɪˈvent",
+  "us": "ɪˈvent"
+ },
+ "spoon": {
+  "uk": "spuːn",
+  "us": "spuːn"
+ },
+ "annual": {
+  "uk": "ˈænjuəl",
+  "us": "ˈænjuəl"
+ },
+ "fantastic": {
+  "uk": "fænˈtæstɪk",
+  "us": "fænˈtæstɪk"
+ },
+ "dollar": {
+  "uk": "ˈdɒlə(r)",
+  "us": "ˈdɑːlər"
+ },
+ "pie": {
+  "uk": "paɪ",
+  "us": "paɪ"
+ },
+ "equipment": {
+  "uk": "ɪˈkwɪpmənt",
+  "us": "ɪˈkwɪpmənt"
+ },
+ "clubs fair": {
+  "uk": "",
+  "us": ""
+ },
+ "solar power": {
+  "uk": "",
+  "us": ""
+ },
+ "of course": {
+  "uk": "",
+  "us": ""
+ },
+ "remote control": {
+  "uk": "rɪˌməʊt kənˈtrəʊl",
+  "us": ""
+ },
+ "turn around": {
+  "uk": "",
+  "us": ""
+ },
+ "make a difference": {
+  "uk": "",
+  "us": "meɪk ə ˈdɪfrəns"
+ },
+ "primary school": {
+  "uk": "ˈpraɪməri skuːl",
+  "us": "ˈpraɪmeri skuːl"
+ },
+ "fall off": {
+  "uk": "ˈfɔːl ɒf",
+  "us": ""
+ },
+ "ring": {
+  "uk": "rɪŋ",
+  "us": "rɪŋ"
+ },
+ "collection": {
+  "uk": "kəˈlekʃ(ə)n",
+  "us": "kəˈlekʃ(ə)n"
+ },
+ "valuable": {
+  "uk": "ˈvæljuəb(ə)l",
+  "us": "ˈvæljuəb(ə)l"
+ },
+ "handle": {
+  "uk": "ˈhænd(ə)l",
+  "us": "ˈhænd(ə)l"
+ },
+ "glove": {
+  "uk": "ɡlʌv",
+  "us": "ɡlʌv"
+ },
+ "add": {
+  "uk": "æd",
+  "us": "æd"
+ },
+ "envelope": {
+  "uk": "ˈenvələʊp",
+  "us": "ˈenvəloʊp"
+ },
+ "absolutely": {
+  "uk": "ˈæbsəluːtli",
+  "us": "ˌæbsəˈluːtli"
+ },
+ "seem": {
+  "uk": "siːm",
+  "us": "siːm"
+ },
+ "impossible": {
+  "uk": "ɪmˈpɒsəb(ə)l",
+  "us": "ɪmˈpɑːsəb(ə)l"
+ },
+ "single": {
+  "uk": "ˈsɪŋɡ(ə)l",
+  "us": "ˈsɪŋɡ(ə)l"
+ },
+ "nail": {
+  "uk": "neɪl",
+  "us": "neɪl"
+ },
+ "explain": {
+  "uk": "ɪkˈspleɪn",
+  "us": "ɪkˈspleɪn"
+ },
+ "bit": {
+  "uk": "bɪt",
+  "us": "bɪt"
+ },
+ "similar": {
+  "uk": "ˈsɪmələ(r)",
+  "us": "ˈsɪmələr"
+ },
+ "coin": {
+  "uk": "kɔɪn",
+  "us": "kɔɪn"
+ },
+ "soft": {
+  "uk": "sɒft",
+  "us": "sɔːft"
+ },
+ "sticker": {
+  "uk": "ˈstɪkə(r)",
+  "us": "ˈstɪkər"
+ },
+ "waste": {
+  "uk": "weɪst",
+  "us": "weɪst"
+ },
+ "item": {
+  "uk": "ˈaɪtəm",
+  "us": "ˈaɪtəm"
+ },
+ "result": {
+  "uk": "rɪˈzʌlt",
+  "us": "rɪˈzʌlt"
+ },
+ "wrapper": {
+  "uk": "ˈræpə(r)",
+  "us": "ˈræpər"
+ },
+ "bar": {
+  "uk": "bɑː(r)",
+  "us": "bɑːr"
+ },
+ "include": {
+  "uk": "ɪnˈkluːd",
+  "us": "ɪnˈkluːd"
+ },
+ "size": {
+  "uk": "saɪz",
+  "us": "saɪz"
+ },
+ "pattern": {
+  "uk": "ˈpæt(ə)n",
+  "us": "ˈpætərn"
+ },
+ "produce": {
+  "uk": "prəˈdjuːs",
+  "us": "prəˈduːs"
+ },
+ "attract": {
+  "uk": "əˈtrækt",
+  "us": "əˈtrækt"
+ },
+ "insect": {
+  "uk": "ˈɪnsekt",
+  "us": "ˈɪnsekt"
+ },
+ "object": {
+  "uk": "ˈɒbdʒɪkt; ˈɒbdʒekt; əbˈdʒekt",
+  "us": "ˈɑːbdʒekt; ˈɑːbdʒekt; əbˈdʒekt"
+ },
+ "flat": {
+  "uk": "flæt",
+  "us": "flæt"
+ },
+ "language": {
+  "uk": "ˈlæŋɡwɪdʒ",
+  "us": "ˈlæŋɡwɪdʒ"
+ },
+ "treasure": {
+  "uk": "ˈtreʒə(r)",
+  "us": "ˈtreʒər"
+ },
+ "unlock": {
+  "uk": "ˌʌnˈlɒk",
+  "us": "ˌʌnˈlɑːk"
+ },
+ "real": {
+  "uk": "ˈriːəl",
+  "us": "ˈriːəl"
+ },
+ "add ...to...": {
+  "uk": "",
+  "us": ""
+ },
+ "soft drink": {
+  "uk": "ˌsɒft ˈdrɪŋk",
+  "us": "ˌsɔːft ˈdrɪŋk"
+ },
+ "a waste of time": {
+  "uk": "",
+  "us": ""
+ },
+ "pocket money": {
+  "uk": "ˈpɒkɪt mʌni",
+  "us": ""
+ },
+ "all over the world": {
+  "uk": "",
+  "us": ""
+ },
+ "advice": {
+  "uk": "ədˈvaɪs",
+  "us": "ədˈvaɪs"
+ },
+ "encourage": {
+  "uk": "ɪnˈkʌrɪdʒ",
+  "us": "ɪnˈkɜːrɪdʒ"
+ },
+ "retire": {
+  "uk": "rɪˈtaɪə(r)",
+  "us": "rɪˈtaɪər"
+ },
+ "cheerful": {
+  "uk": "ˈtʃɪəf(ə)l",
+  "us": "ˈtʃɪrf(ə)l"
+ },
+ "community": {
+  "uk": "kəˈmjuːnəti",
+  "us": "kəˈmjuːnəti"
+ },
+ "medical": {
+  "uk": "ˈmedɪk(ə)l",
+  "us": "ˈmedɪk(ə)l"
+ },
+ "fried": {
+  "uk": "fraɪd",
+  "us": "fraɪd"
+ },
+ "wherever": {
+  "uk": "weərˈevə(r)",
+  "us": "werˈevər"
+ },
+ "future": {
+  "uk": "ˈfjuːtʃə(r)",
+  "us": "ˈfjuːtʃər"
+ },
+ "soon": {
+  "uk": "suːn",
+  "us": "suːn"
+ },
+ "smart": {
+  "uk": "smɑːt",
+  "us": "smɑːrt"
+ },
+ "attention": {
+  "uk": "əˈtenʃ(ə)n",
+  "us": "əˈtenʃ(ə)n"
+ },
+ "seldom": {
+  "uk": "ˈseldəm",
+  "us": "ˈseldəm"
+ },
+ "bored": {
+  "uk": "bɔːd",
+  "us": "bɔːrd"
+ },
+ "strict": {
+  "uk": "strɪkt",
+  "us": "strɪkt"
+ },
+ "relative": {
+  "uk": "ˈrelətɪv",
+  "us": "ˈrelətɪv"
+ },
+ "uniform": {
+  "uk": "ˈjuːnɪfɔːm",
+  "us": "ˈjuːnɪfɔːrm"
+ },
+ "personality": {
+  "uk": "ˌpɜːsəˈnæləti",
+  "us": "ˌpɜːrsəˈnæləti"
+ },
+ "characteristic": {
+  "uk": "ˌkærəktəˈrɪstɪk",
+  "us": "ˌkærəktəˈrɪstɪk"
+ },
+ "topic": {
+  "uk": "ˈtɒpɪk",
+  "us": "ˈtɑːpɪk"
+ },
+ "active": {
+  "uk": "ˈæktɪv",
+  "us": "ˈæktɪv"
+ },
+ "smartphone": {
+  "uk": "ˈsmɑːtfəʊn",
+  "us": "ˈsmɑːrtfoʊn"
+ },
+ "wisely": {
+  "uk": "ˈwaɪzli",
+  "us": "ˈwaɪzli"
+ },
+ "competition": {
+  "uk": "ˌkɒmpəˈtɪʃ(ə)n",
+  "us": "ˌkɑːmpəˈtɪʃ(ə)n"
+ },
+ "shower": {
+  "uk": "ˈʃaʊə(r)",
+  "us": "ˈʃaʊər"
+ },
+ "online": {
+  "uk": "ˌɒnˈlaɪn",
+  "us": "ˌɑːnˈlaɪn"
+ },
+ "narrow": {
+  "uk": "ˈnærəʊ",
+  "us": "ˈnæroʊ"
+ },
+ "superman": {
+  "uk": "ˈsuːpəmæn; ˈsjuːpəmæn",
+  "us": "ˈsuːpərmæn"
+ },
+ "give up": {
+  "uk": "",
+  "us": "ɡɪv ʌp"
+ },
+ "used to": {
+  "uk": "",
+  "us": "ˈjuːst tu"
+ },
+ "in the future": {
+  "uk": "",
+  "us": ""
+ },
+ "be strict about": {
+  "uk": "",
+  "us": ""
+ },
+ "be worried about": {
+  "uk": "",
+  "us": ""
+ },
+ "wine": {
+  "uk": "waɪn",
+  "us": "waɪn"
+ },
+ "match": {
+  "uk": "mætʃ",
+  "us": "mætʃ"
+ },
+ "rich": {
+  "uk": "rɪtʃ",
+  "us": "rɪtʃ"
+ },
+ "lie": {
+  "uk": "laɪ",
+  "us": "laɪ"
+ },
+ "café": {
+  "uk": "ˈkæfeɪ",
+  "us": "kæˈfeɪ"
+ },
+ "excellent": {
+  "uk": "ˈeksələnt",
+  "us": "ˈeksələnt"
+ },
+ "coast": {
+  "uk": "kəʊst",
+  "us": "koʊst"
+ },
+ "perfect": {
+  "uk": "ˈpɜːfɪkt",
+  "us": "ˈpɜːrfɪkt"
+ },
+ "mostly": {
+  "uk": "ˈməʊstli",
+  "us": "ˈmoʊstli"
+ },
+ "receive": {
+  "uk": "rɪˈsiːv",
+  "us": "rɪˈsiːv"
+ },
+ "key": {
+  "uk": "kiː",
+  "us": "kiː"
+ },
+ "remain": {
+  "uk": "rɪˈmeɪn",
+  "us": "rɪˈmeɪn"
+ },
+ "lift": {
+  "uk": "lɪft",
+  "us": "lɪft"
+ },
+ "step": {
+  "uk": "step",
+  "us": "step"
+ },
+ "stair": {
+  "uk": "steə(r)",
+  "us": "ster"
+ },
+ "motorcycle": {
+  "uk": "ˈməʊtəsaɪk(ə)l",
+  "us": "ˈmoʊtərsaɪk(ə)l"
+ },
+ "sightseeing": {
+  "uk": "ˈsaɪtsiːɪŋ",
+  "us": "ˈsaɪtsiːɪŋ"
+ },
+ "imagine": {
+  "uk": "ɪˈmædʒɪn",
+  "us": "ɪˈmædʒɪn"
+ },
+ "destination": {
+  "uk": "ˌdestɪˈneɪʃn",
+  "us": "ˌdestɪˈneɪʃ(ə)n"
+ },
+ "address": {
+  "uk": "əˈdres",
+  "us": "əˈdres"
+ },
+ "government": {
+  "uk": "ˈɡʌvənmənt",
+  "us": "ˈɡʌvərnmənt"
+ },
+ "unique": {
+  "uk": "juˈniːk",
+  "us": "juˈniːk"
+ },
+ "endangered": {
+  "uk": "ɪnˈdeɪndʒəd",
+  "us": "ɪnˈdeɪndʒərd"
+ },
+ "stretch": {
+  "uk": "stretʃ",
+  "us": "stretʃ"
+ },
+ "huge": {
+  "uk": "hjuːdʒ",
+  "us": "hjuːdʒ"
+ },
+ "wild": {
+  "uk": "waɪld",
+  "us": "waɪld"
+ },
+ "discover": {
+  "uk": "dɪˈskʌvə(r)",
+  "us": "dɪˈskʌvər"
+ },
+ "volcano": {
+  "uk": "vɒlˈkeɪnəʊ",
+  "us": "vɑːlˈkeɪnoʊ"
+ },
+ "range": {
+  "uk": "reɪndʒ",
+  "us": "reɪndʒ"
+ },
+ "snowmobile": {
+  "uk": "ˈsnəʊməbiːl",
+  "us": "ˈsnoʊmoʊbiːl"
+ },
+ "wolf": {
+  "uk": "wʊlf",
+  "us": "wʊlf"
+ },
+ "department store": {
+  "uk": "dɪˈpɑːtmənt stɔː(r)",
+  "us": "dɪˈpɑːrtmənt stɔːr"
+ },
+ "prefer to": {
+  "uk": "",
+  "us": ""
+ },
+ "by hand": {
+  "uk": "",
+  "us": "baɪ hænd"
+ },
+ "go sightseeing": {
+  "uk": "",
+  "us": ""
+ },
+ "go on a trip": {
+  "uk": "",
+  "us": ""
+ },
+ "set up": {
+  "uk": "ˈset ʌp",
+  "us": "set ʌp"
+ },
+ "giant panda": {
+  "uk": "ˌdʒaɪənt ˈpændə",
+  "us": "ˌdʒaɪənt ˈpændə"
+ },
+ "in the wild": {
+  "uk": "",
+  "us": "ɪn ðə waɪld"
+ },
+ "all year round": {
+  "uk": "",
+  "us": ""
+ },
+ "golden monkey": {
+  "uk": "",
+  "us": ""
+ },
+ "go hiking": {
+  "uk": "",
+  "us": ""
+ },
+ "hot spring": {
+  "uk": "",
+  "us": ""
+ },
+ "branch": {
+  "uk": "brɑːntʃ",
+  "us": "bræntʃ"
+ },
+ "root": {
+  "uk": "ruːt",
+  "us": "ruːt"
+ },
+ "silent": {
+  "uk": "ˈsaɪlənt",
+  "us": "ˈsaɪlənt"
+ },
+ "overlook": {
+  "uk": "ˌəʊvəˈlʊk",
+  "us": "ˌoʊvərˈlʊk"
+ },
+ "human": {
+  "uk": "ˈhjuːmən",
+  "us": "ˈhjuːmən"
+ },
+ "oxygen": {
+  "uk": "ˈɒksɪdʒən",
+  "us": "ˈɑːksɪdʒən"
+ },
+ "create": {
+  "uk": "kriˈeɪt",
+  "us": "kriˈeɪt"
+ },
+ "environment": {
+  "uk": "ɪnˈvaɪrənmənt",
+  "us": "ɪnˈvaɪrənmənt"
+ },
+ "convenient": {
+  "uk": "kənˈviːniənt",
+  "us": "kənˈviːniənt"
+ },
+ "furniture": {
+  "uk": "ˈfɜːnɪtʃə(r)",
+  "us": "ˈfɜːrnɪtʃər"
+ },
+ "wood": {
+  "uk": "wʊd",
+  "us": "wʊd"
+ },
+ "treat": {
+  "uk": "triːt",
+  "us": "triːt"
+ },
+ "communicate": {
+  "uk": "kəˈmjuːnɪkeɪt",
+  "us": "kəˈmjuːnɪkeɪt"
+ },
+ "species": {
+  "uk": "ˈspiːʃiːz",
+  "us": "ˈspiːʃiːz"
+ },
+ "product": {
+  "uk": "ˈprɒdʌkt",
+  "us": "ˈprɑːdʌkt"
+ },
+ "side": {
+  "uk": "saɪd",
+  "us": "saɪd"
+ },
+ "borrow": {
+  "uk": "ˈbɒrəʊ",
+  "us": "ˈbɔːroʊ"
+ },
+ "dig": {
+  "uk": "dɪɡ",
+  "us": "dɪɡ"
+ },
+ "hole": {
+  "uk": "həʊl",
+  "us": "hoʊl"
+ },
+ "stick": {
+  "uk": "stɪk",
+  "us": "stɪk"
+ },
+ "accident": {
+  "uk": "ˈæksɪdənt",
+  "us": "ˈæksɪdənt"
+ },
+ "knowledge": {
+  "uk": "ˈnɒlɪdʒ",
+  "us": "ˈnɑːlɪdʒ"
+ },
+ "character": {
+  "uk": "ˈkærəktə(r)",
+  "us": "ˈkærəktər"
+ },
+ "spread": {
+  "uk": "spred",
+  "us": "spred"
+ },
+ "translation": {
+  "uk": "trænzˈleɪʃ(ə)n",
+  "us": "trænzˈleɪʃ(ə)n"
+ },
+ "take in": {
+  "uk": "",
+  "us": "teɪk ɪn"
+ },
+ "greenhouse gas": {
+  "uk": "ˌɡriːnhaʊs ˈɡæs",
+  "us": "ˌɡriːnhaʊs ˈɡæs"
+ },
+ "to begin with": {
+  "uk": "",
+  "us": "tu bɪˈɡɪn wɪð"
+ },
+ "come from": {
+  "uk": "",
+  "us": "kʌm frəm"
+ },
+ "look around": {
+  "uk": "",
+  "us": "lʊk əˈraʊnd"
+ },
+ "be made of": {
+  "uk": "",
+  "us": ""
+ },
+ "for example": {
+  "uk": "fɔ: iɡˈzɑ:mpl",
+  "us": "fɔr ɪɡˈzæmpəl"
+ },
+ "communicate with": {
+  "uk": "",
+  "us": "kəˈmjuːnɪkeɪt wɪð"
+ },
+ "call on": {
+  "uk": "",
+  "us": ""
+ },
+ "according to": {
+  "uk": "",
+  "us": ""
+ },
+ "by accident": {
+  "uk": "",
+  "us": "baɪ ˈæksɪdənt"
+ },
+ "dolphin": {
+  "uk": "ˈdɒlfɪn",
+  "us": "ˈdɑːlfɪn"
+ },
+ "hen": {
+  "uk": "hen",
+  "us": "hen"
+ },
+ "blind": {
+  "uk": "blaɪnd",
+  "us": "blaɪnd"
+ },
+ "wool": {
+  "uk": "wʊl",
+  "us": "wʊl"
+ },
+ "sir": {
+  "uk": "sɜː(r)",
+  "us": "sɜːr"
+ },
+ "receptionist": {
+  "uk": "rɪˈsepʃənɪst",
+  "us": "rɪˈsepʃənɪst"
+ },
+ "allow": {
+  "uk": "əˈlaʊ",
+  "us": "əˈlaʊ"
+ },
+ "apologize": {
+  "uk": "əˈpɒlədʒaɪz",
+  "us": "əˈpɑːlədʒaɪz"
+ },
+ "asleep": {
+  "uk": "əˈsliːp",
+  "us": "əˈsliːp"
+ },
+ "smoke": {
+  "uk": "sməʊk",
+  "us": "smoʊk"
+ },
+ "fireman": {
+  "uk": "ˈfaɪəmən",
+  "us": "ˈfaɪərmən"
+ },
+ "type": {
+  "uk": "taɪp",
+  "us": "taɪp"
+ },
+ "search-and-rescue": {
+  "uk": "",
+  "us": ""
+ },
+ "service": {
+  "uk": "ˈsɜːvɪs",
+  "us": "ˈsɜːrvɪs"
+ },
+ "disaster": {
+  "uk": "dɪˈzɑːstə(r)",
+  "us": "dɪˈzæstər"
+ },
+ "guest": {
+  "uk": "ɡest",
+  "us": "ɡest"
+ },
+ "team": {
+  "uk": "tiːm",
+  "us": "tiːm"
+ },
+ "transport": {
+  "uk": "ˈtrænspɔːt",
+  "us": "ˈtrænspɔːrt"
+ },
+ "guard": {
+  "uk": "ɡɑːd",
+  "us": "ɡɑːrd"
+ },
+ "honey": {
+  "uk": "ˈhʌni",
+  "us": "ˈhʌni"
+ },
+ "material": {
+  "uk": "məˈtɪəriəl",
+  "us": "məˈtɪriəl"
+ },
+ "either": {
+  "uk": "ˈaɪðə(r)",
+  "us": "ˈiːðər"
+ },
+ "shark": {
+  "uk": "ʃɑːk",
+  "us": "ʃɑːrk"
+ },
+ "scared": {
+  "uk": "skeəd",
+  "us": "skerd"
+ },
+ "grey": {
+  "uk": "ɡreɪ",
+  "us": "ɡreɪ"
+ },
+ "somewhere": {
+  "uk": "ˈsʌmweə(r)",
+  "us": "ˈsʌmwer"
+ },
+ "probably": {
+  "uk": "ˈprɒbəbli",
+  "us": "ˈprɑːbəbli"
+ },
+ "source": {
+  "uk": "sɔːs",
+  "us": "sɔːrs"
+ },
+ "sometime": {
+  "uk": "ˈsʌmtaɪm",
+  "us": "ˈsʌmtaɪm"
+ },
+ "extinct": {
+  "uk": "ɪkˈstɪŋkt",
+  "us": "ɪkˈstɪŋkt"
+ },
+ "effort": {
+  "uk": "ˈefət",
+  "us": "ˈefərt"
+ },
+ "lead (somebody) to": {
+  "uk": "",
+  "us": ""
+ },
+ "fall asleep": {
+  "uk": "",
+  "us": "fɔːl əˈsliːp"
+ },
+ "get down": {
+  "uk": "",
+  "us": "ɡet daʊn"
+ },
+ "fire engine": {
+  "uk": "'faɪə 'endʒɪn",
+  "us": "ˈfaɪər ˈendʒɪn"
+ },
+ "everyday": {
+  "uk": "ˈevrideɪ",
+  "us": "ˈevrideɪ"
+ },
+ "form": {
+  "uk": "fɔːm",
+  "us": "fɔːrm"
+ },
+ "journey": {
+  "uk": "ˈdʒɜːni",
+  "us": "ˈdʒɜːrni"
+ },
+ "drop": {
+  "uk": "drɒp",
+  "us": "drɑːp"
+ },
+ "tap": {
+  "uk": "tæp",
+  "us": "tæp"
+ },
+ "voice": {
+  "uk": "vɔɪs",
+  "us": "vɔɪs"
+ },
+ "eventually": {
+  "uk": "ɪˈventʃuəli",
+  "us": "ɪˈventʃuəli"
+ },
+ "pipe": {
+  "uk": "paɪp",
+  "us": "paɪp"
+ },
+ "return": {
+  "uk": "rɪˈtɜːn",
+  "us": "rɪˈtɜːrn"
+ },
+ "rush": {
+  "uk": "rʌʃ",
+  "us": "rʌʃ"
+ },
+ "bath": {
+  "uk": "bɑːθ",
+  "us": "bæθ"
+ },
+ "salt": {
+  "uk": "sɔːlt; sɒlt",
+  "us": "sɔːlt"
+ },
+ "brain": {
+  "uk": "breɪn",
+  "us": "breɪn"
+ },
+ "fix": {
+  "uk": "fɪks",
+  "us": "fɪks"
+ },
+ "public": {
+  "uk": "ˈpʌblɪk",
+  "us": "ˈpʌblɪk"
+ },
+ "population": {
+  "uk": "ˌpɒpjuˈleɪʃ(ə)n",
+  "us": "ˌpɑːpjuˈleɪʃ(ə)n"
+ },
+ "agriculture": {
+  "uk": "ˈæɡrɪkʌltʃə(r)",
+  "us": "ˈæɡrɪkʌltʃər"
+ },
+ "trade": {
+  "uk": "treɪd",
+  "us": "treɪd"
+ },
+ "industry": {
+  "uk": "ˈɪndəstri",
+  "us": "ˈɪndəstri"
+ },
+ "role": {
+  "uk": "rəʊl",
+  "us": "roʊl"
+ },
+ "goods": {
+  "uk": "ɡʊdz",
+  "us": "ɡʊdz"
+ },
+ "overseas": {
+  "uk": "ˌəʊvəˈsiːz",
+  "us": "ˌoʊvərˈsiːz"
+ },
+ "global": {
+  "uk": "ˈɡləʊbl",
+  "us": "ˈɡləʊbl"
+ },
+ "income": {
+  "uk": "ˈɪnkʌm",
+  "us": "ˈɪnkʌm"
+ },
+ "nearly": {
+  "uk": "ˈnɪəli",
+  "us": "ˈnɪrli"
+ },
+ "business": {
+  "uk": "ˈbɪznəs",
+  "us": "ˈbɪznəs"
+ },
+ "leisure": {
+  "uk": "ˈleʒə(r)",
+  "us": "ˈliːʒər"
+ },
+ "throughout": {
+  "uk": "θruːˈaʊt",
+  "us": "θruːˈaʊt"
+ },
+ "duty": {
+  "uk": "ˈdjuːti",
+  "us": "ˈduːti"
+ },
+ "a bit": {
+  "uk": "",
+  "us": "ə bɪt"
+ },
+ "at once": {
+  "uk": "æt wʌns",
+  "us": "æt wʌns"
+ },
+ "drinking water": {
+  "uk": "ˈdrɪŋkɪŋ ˌwɔːtə(r)",
+  "us": ""
+ },
+ "play a role in": {
+  "uk": "",
+  "us": ""
+ },
+ "steam engine": {
+  "uk": "",
+  "us": "stiːm ˈendʒɪn"
+ },
+ "as a result": {
+  "uk": "",
+  "us": "æz ərɪˈzʌlt"
+ },
+ "make sure": {
+  "uk": "meɪk ʃʊə(r)",
+  "us": "meɪk ʃʊr"
+ },
+ "battery": {
+  "uk": "ˈbætri",
+  "us": "ˈbætəri"
+ },
+ "electricity": {
+  "uk": "ɪˌlekˈtrɪsəti",
+  "us": "ɪˌlekˈtrɪsəti"
+ },
+ "switch-off": {
+  "uk": "",
+  "us": "ˈswɪtʃɔf"
+ },
+ "task": {
+  "uk": "tɑːsk",
+  "us": "tæsk"
+ },
+ "while": {
+  "uk": "waɪl",
+  "us": "waɪl"
+ },
+ "tablet": {
+  "uk": "ˈtæblət",
+  "us": "ˈtæblət"
+ },
+ "fridge": {
+  "uk": "frɪdʒ",
+  "us": "frɪdʒ"
+ },
+ "yogurt": {
+  "uk": "ˈjɒɡət",
+  "us": "ˈjoʊɡərt"
+ },
+ "apartment": {
+  "uk": "əˈpɑːtmənt",
+  "us": "əˈpɑːrtmənt"
+ },
+ "household": {
+  "uk": "ˈhaʊshəʊld",
+  "us": "ˈhaʊshoʊld"
+ },
+ "against": {
+  "uk": "əˈɡenst",
+  "us": "əˈɡenst"
+ },
+ "speed": {
+  "uk": "spiːd",
+  "us": "spiːd"
+ },
+ "safety": {
+  "uk": "ˈseɪfti",
+  "us": "ˈseɪfti"
+ },
+ "instruction": {
+  "uk": "ɪnˈstrʌkʃ(ə)n",
+  "us": "ɪnˈstrʌkʃ(ə)n"
+ },
+ "connect": {
+  "uk": "kəˈnekt",
+  "us": "kəˈnekt"
+ },
+ "device": {
+  "uk": "dɪˈvaɪs",
+  "us": "dɪˈvaɪs"
+ },
+ "rule": {
+  "uk": "ruːl",
+  "us": "ruːl"
+ },
+ "climate": {
+  "uk": "ˈklaɪmət",
+  "us": "ˈklaɪmət"
+ },
+ "amount": {
+  "uk": "əˈmaʊnt",
+  "us": "əˈmaʊnt"
+ },
+ "television set": {
+  "uk": "",
+  "us": "ˈtelɪvɪʒn set"
+ },
+ "landmark": {
+  "uk": "ˈlændmɑːk",
+  "us": "ˈlændmɑːrk"
+ },
+ "have something in common": {
+  "uk": "",
+  "us": ""
+ },
+ "light bulb": {
+  "uk": "ˈlaɪt bʌlb",
+  "us": "ˈlaɪt bʌlb"
+ },
+ "air conditioner": {
+  "uk": "ˈeə kəndɪʃənə(r)",
+  "us": ""
+ },
+ "video game": {
+  "uk": "ˈvɪdiəʊ ɡeɪm",
+  "us": "ˈvɪdioʊ ɡeɪm"
+ },
+ "run out of": {
+  "uk": "",
+  "us": ""
+ },
+ "go bad": {
+  "uk": "",
+  "us": ""
+ },
+ "electric car": {
+  "uk": "",
+  "us": ""
+ },
+ "electrical appliance": {
+  "uk": "",
+  "us": "ɪˈlektrɪkl əˈplaɪəns"
+ },
+ "care about": {
+  "uk": "",
+  "us": ""
+ },
+ "climate change": {
+  "uk": "ˈklaɪmət tʃeɪndʒ",
+  "us": "ˈklaɪmət tʃeɪndʒ"
+ },
+ "join in": {
+  "uk": "",
+  "us": "dʒɔɪn ɪn"
+ },
+ "contribution": {
+  "uk": "ˌkɒntrɪˈbjuːʃ(ə)n",
+  "us": "ˌkɑːntrɪˈbjuːʃ(ə)n"
+ },
+ "hero": {
+  "uk": "ˈhɪərəʊ",
+  "us": "ˈhɪroʊ"
+ },
+ "pioneer": {
+  "uk": "ˌpaɪəˈnɪə(r)",
+  "us": "ˌpaɪəˈnɪr"
+ },
+ "technology": {
+  "uk": "tekˈnɒlədʒi",
+  "us": "tekˈnɑːlədʒi"
+ },
+ "engineering": {
+  "uk": "ˌendʒɪˈnɪərɪŋ",
+  "us": "ˌendʒɪˈnɪrɪŋ"
+ },
+ "award": {
+  "uk": "əˈwɔːd",
+  "us": "əˈwɔːrd"
+ },
+ "education": {
+  "uk": "ˌedʒuˈkeɪʃ(ə)n",
+  "us": "ˌedʒuˈkeɪʃ(ə)n"
+ },
+ "spend": {
+  "uk": "spend",
+  "us": "spend"
+ },
+ "research": {
+  "uk": "rɪˈsɜːtʃ",
+  "us": "ˈriːsɜːrtʃ"
+ },
+ "achieve": {
+  "uk": "əˈtʃiːv",
+  "us": "əˈtʃiːv"
+ },
+ "well-respected": {
+  "uk": "",
+  "us": "wel rɪˈspektɪd"
+ },
+ "found": {
+  "uk": "faʊnd",
+  "us": "faʊnd"
+ },
+ "eager": {
+  "uk": "ˈiːɡə(r)",
+  "us": "ˈiːɡər"
+ },
+ "raise": {
+  "uk": "reɪz",
+  "us": "reɪz"
+ },
+ "mission": {
+  "uk": "ˈmɪʃ(ə)n",
+  "us": "ˈmɪʃ(ə)n"
+ },
+ "honour": {
+  "uk": "ˈɒnə(r)",
+  "us": "ˈɑːnər"
+ },
+ "approval": {
+  "uk": "əˈpruːv(ə)l",
+  "us": "əˈpruːv(ə)l"
+ },
+ "praise": {
+  "uk": "preɪz",
+  "us": "preɪz"
+ },
+ "society": {
+  "uk": "səˈsaɪəti",
+  "us": "səˈsaɪəti"
+ },
+ "female": {
+  "uk": "ˈfiːmeɪl",
+  "us": "ˈfiːmeɪl"
+ },
+ "admire": {
+  "uk": "ədˈmaɪə(r)",
+  "us": "ədˈmaɪər"
+ },
+ "inspire": {
+  "uk": "ɪnˈspaɪə(r)",
+  "us": "ɪnˈspaɪər"
+ },
+ "regular": {
+  "uk": "ˈreɡjələ(r)",
+  "us": "ˈreɡjələr"
+ },
+ "feed": {
+  "uk": "fiːd",
+  "us": "fiːd"
+ },
+ "smokejumper": {
+  "uk": "ˈsməʊkˌdʒʌmpə",
+  "us": ""
+ },
+ "thick": {
+  "uk": "θɪk",
+  "us": "θɪk"
+ },
+ "certain": {
+  "uk": "ˈsɜːt(ə)n",
+  "us": "ˈsɜːrt(ə)n"
+ },
+ "kill": {
+  "uk": "kɪl",
+  "us": "kɪl"
+ },
+ "tool": {
+  "uk": "tuːl",
+  "us": "tuːl"
+ },
+ "dead": {
+  "uk": "ded",
+  "us": "ded"
+ },
+ "brave": {
+  "uk": "breɪv",
+  "us": "breɪv"
+ },
+ "tough": {
+  "uk": "tʌf",
+  "us": "tʌf"
+ },
+ "fit": {
+  "uk": "fɪt",
+  "us": "fɪt"
+ },
+ "otherwise": {
+  "uk": "ˈʌðəwaɪz",
+  "us": "ˈʌðərwaɪz"
+ },
+ "survive": {
+  "uk": "səˈvaɪv",
+  "us": "sərˈvaɪv"
+ },
+ "proud": {
+  "uk": "praʊd",
+  "us": "praʊd"
+ },
+ "role model": {
+  "uk": "ˈrəʊl mɒdl",
+  "us": ""
+ },
+ "in the field of": {
+  "uk": "",
+  "us": ""
+ },
+ "devote yourself to": {
+  "uk": "",
+  "us": ""
+ },
+ "college entrance examination": {
+  "uk": "",
+  "us": ""
+ },
+ "look up to": {
+  "uk": "",
+  "us": "lʊk ʌp tu"
+ },
+ "sugar pill": {
+  "uk": "",
+  "us": ""
+ },
+ "chief engineer": {
+  "uk": "",
+  "us": ""
+ },
+ "put out": {
+  "uk": "",
+  "us": "pʊt aʊt"
+ },
+ "be able to": {
+  "uk": "",
+  "us": "bi ˈeɪbl tu"
+ },
+ "be proud of": {
+  "uk": "",
+  "us": ""
+ },
+ "possible": {
+  "uk": "ˈpɒsəb(ə)l",
+  "us": "ˈpɑːsəb(ə)l"
+ },
+ "athlete": {
+  "uk": "ˈæθliːt",
+  "us": "ˈæθliːt"
+ },
+ "biologist": {
+  "uk": "baɪˈɒlədʒɪst",
+  "us": "baɪˈɑːlədʒɪst"
+ },
+ "instrument": {
+  "uk": "ˈɪnstrəmənt",
+  "us": "ˈɪnstrəmənt"
+ },
+ "interest": {
+  "uk": "ˈɪntrəst",
+  "us": "ˈɪntrəst"
+ },
+ "career": {
+  "uk": "kəˈrɪə(r)",
+  "us": "kəˈrɪr"
+ },
+ "lifetime": {
+  "uk": "ˈlaɪftaɪm",
+  "us": "ˈlaɪftaɪm"
+ },
+ "diamond": {
+  "uk": "ˈdaɪmənd; ˈdaɪəmənd",
+  "us": "ˈdaɪmənd; ˈdaɪəmənd"
+ },
+ "belt": {
+  "uk": "belt",
+  "us": "belt"
+ },
+ "shoot": {
+  "uk": "ʃuːt",
+  "us": "ʃuːt"
+ },
+ "extremely": {
+  "uk": "ɪkˈstriːmli",
+  "us": "ɪkˈstriːmli"
+ },
+ "curious": {
+  "uk": "ˈkjʊəriəs",
+  "us": "ˈkjʊriəs"
+ },
+ "increase": {
+  "uk": "ɪnˈkriːs",
+  "us": "ɪnˈkriːs"
+ },
+ "host": {
+  "uk": "həʊst",
+  "us": "hoʊst"
+ },
+ "beyond": {
+  "uk": "bɪˈjɒnd",
+  "us": "bɪˈjɑːnd"
+ },
+ "audience": {
+  "uk": "ˈɔːdiəns",
+  "us": "ˈɔːdiəns"
+ },
+ "lively": {
+  "uk": "ˈlaɪvli",
+  "us": "ˈlaɪvli"
+ },
+ "actually": {
+  "uk": "ˈæktʃuəli",
+  "us": "ˈæktʃuəli"
+ },
+ "sail": {
+  "uk": "seɪl",
+  "us": "seɪl"
+ },
+ "ability": {
+  "uk": "əˈbɪləti",
+  "us": "əˈbɪləti"
+ },
+ "review": {
+  "uk": "rɪˈvjuː",
+  "us": "rɪˈvjuː"
+ },
+ "perform": {
+  "uk": "pəˈfɔːm",
+  "us": "pərˈfɔːrm"
+ },
+ "kiss": {
+  "uk": "kɪs",
+  "us": "kɪs"
+ },
+ "hug": {
+  "uk": "hʌɡ",
+  "us": "hʌɡ"
+ },
+ "method": {
+  "uk": "ˈmeθəd",
+  "us": "ˈmeθəd"
+ },
+ "compare": {
+  "uk": "kəmˈpeə(r)",
+  "us": "kəmˈper"
+ },
+ "nowadays": {
+  "uk": "ˈnaʊədeɪz",
+  "us": "ˈnaʊədeɪz"
+ },
+ "human being": {
+  "uk": "",
+  "us": "ˈhjuːmən ˈbiːɪŋ"
+ },
+ "lecture": {
+  "uk": "ˈlektʃə(r)",
+  "us": "ˈlektʃər"
+ },
+ "go outside": {
+  "uk": "",
+  "us": ""
+ },
+ "more and more": {
+  "uk": "",
+  "us": ""
+ },
+ "body language": {
+  "uk": "ˈbɒdi læŋɡwɪdʒ",
+  "us": ""
+ },
+ "dream of": {
+  "uk": "",
+  "us": ""
+ },
+ "come true": {
+  "uk": "kʌm truː",
+  "us": "kʌm truː"
+ },
+ "encyclopaedia": {
+  "uk": "ɪnˌsaɪkləˈpiːdiə",
+  "us": "ɪnˌsaɪkləˈpiːdiə"
+ },
+ "dinosaur": {
+  "uk": "ˈdaɪnəsɔː(r)",
+  "us": "ˈdaɪnəsɔːr"
+ },
+ "Italian": {
+  "uk": "ɪˈtæliən",
+  "us": "ɪˈtæliən"
+ },
+ "inventor": {
+  "uk": "ɪnˈventə(r)",
+  "us": "ɪnˈventər"
+ },
+ "musician": {
+  "uk": "mjuˈzɪʃ(ə)n",
+  "us": "mjuˈzɪʃ(ə)n"
+ },
+ "scientist": {
+  "uk": "ˈsaɪəntɪst",
+  "us": "ˈsaɪəntɪst"
+ },
+ "born": {
+  "uk": "bɔːn",
+  "us": "bɔːrn"
+ },
+ "countryside": {
+  "uk": "ˈkʌntrisaɪd",
+  "us": "ˈkʌntrisaɪd"
+ },
+ "intelligence": {
+  "uk": "ɪnˈtelɪdʒəns",
+  "us": "ɪnˈtelɪdʒəns"
+ },
+ "perhaps": {
+  "uk": "pəˈhæps",
+  "us": "pərˈhæps"
+ },
+ "invention": {
+  "uk": "ɪnˈvenʃ(ə)n",
+  "us": "ɪnˈvenʃ(ə)n"
+ },
+ "notebook": {
+  "uk": "ˈnəʊtbʊk",
+  "us": "ˈnoʊtbʊk"
+ },
+ "even": {
+  "uk": "ˈiːv(ə)n",
+  "us": "ˈiːv(ə)n"
+ },
+ "suddenly": {
+  "uk": "ˈsʌd(ə)nli",
+  "us": "ˈsʌd(ə)nli"
+ },
+ "nobody": {
+  "uk": "ˈnəʊbədi",
+  "us": "ˈnoʊbɑːdi"
+ },
+ "fossil": {
+  "uk": "ˈfɒs(ə)l",
+  "us": "ˈfɑːs(ə)l"
+ },
+ "win": {
+  "uk": "wɪn",
+  "us": "wɪn"
+ },
+ "in the countryside": {
+  "uk": "",
+  "us": "ɪn ðə ˈkʌntrisaɪd"
+ },
+ "die out": {
+  "uk": "",
+  "us": "daɪ aʊt"
+ },
+ "find out": {
+  "uk": "",
+  "us": "faɪnd aʊt"
+ },
+ "go for a walk": {
+  "uk": "",
+  "us": ""
+ },
+ "number": {
+  "uk": "ˈnʌmbə(r)",
+  "us": "ˈnʌmbər"
+ },
+ "instructions": {
+  "uk": "ɪnˈstrʌkʃənz",
+  "us": "ɪnˈstrʌkʃ(ə)nz"
+ },
+ "check": {
+  "uk": "tʃek",
+  "us": "tʃek"
+ },
+ "gram": {
+  "uk": "ɡræm",
+  "us": "ɡræm"
+ },
+ "son": {
+  "uk": "sʌn",
+  "us": "sʌn"
+ },
+ "chess": {
+  "uk": "tʃes",
+  "us": "tʃes"
+ },
+ "India": {
+  "uk": "ˈɪndiə",
+  "us": "ˈɪndiə"
+ },
+ "wise": {
+  "uk": "waɪz",
+  "us": "waɪz"
+ },
+ "challenge": {
+  "uk": "ˈtʃælɪndʒ",
+  "us": "ˈtʃælɪndʒ"
+ },
+ "promise": {
+  "uk": "ˈprɒmɪs",
+  "us": "ˈprɑːmɪs"
+ },
+ "prize": {
+  "uk": "praɪz",
+  "us": "praɪz"
+ },
+ "chessboard": {
+  "uk": "ˈtʃesbɔːd",
+  "us": "ˈtʃesbɔːrd"
+ },
+ "double": {
+  "uk": "ˈdʌb(ə)l",
+  "us": "ˈdʌb(ə)l"
+ },
+ "rest": {
+  "uk": "rest",
+  "us": "rest"
+ },
+ "gold": {
+  "uk": "ɡəʊld",
+  "us": "ɡoʊld"
+ },
+ "instead": {
+  "uk": "ɪnˈsted",
+  "us": "ɪnˈsted"
+ },
+ "copy": {
+  "uk": "ˈkɒpi",
+  "us": "ˈkɑːpi"
+ },
+ "correctly": {
+  "uk": "kəˈrektli",
+  "us": "kəˈrektli"
+ },
+ "traffic": {
+  "uk": "ˈtræfɪk",
+  "us": "ˈtræfɪk"
+ },
+ "a long time ago": {
+  "uk": "",
+  "us": ""
+ },
+ "challenge......to......": {
+  "uk": "",
+  "us": ""
+ },
+ "and so on": {
+  "uk": "",
+  "us": ""
+ },
+ "copy down": {
+  "uk": "",
+  "us": ""
+ },
+ "order": {
+  "uk": "ˈɔːdə(r)",
+  "us": "ˈɔːrdər"
+ },
+ "monitor": {
+  "uk": "ˈmɒnɪtə(r)",
+  "us": "ˈmɑːnɪtər"
+ },
+ "speaker": {
+  "uk": "ˈspiːkə(r)",
+  "us": "ˈspiːkər"
+ },
+ "main unit": {
+  "uk": "",
+  "us": "meɪn ˈjuːnɪt"
+ },
+ "keyboard": {
+  "uk": "ˈkiːbɔːd",
+  "us": "ˈkiːbɔːrd"
+ },
+ "mouse": {
+  "uk": "maʊs",
+  "us": "maʊs"
+ },
+ "control": {
+  "uk": "kənˈtrəʊl",
+  "us": "kənˈtroʊl"
+ },
+ "expensive": {
+  "uk": "ɪkˈspensɪv",
+  "us": "ɪkˈspensɪv"
+ },
+ "tiny": {
+  "uk": "ˈtaɪni",
+  "us": "ˈtaɪni"
+ },
+ "depend": {
+  "uk": "dɪˈpend",
+  "us": "dɪˈpend"
+ },
+ "calculate": {
+  "uk": "ˈkælkjuleɪt",
+  "us": "ˈkælkjuleɪt"
+ },
+ "operate": {
+  "uk": "ˈɒpəreɪt",
+  "us": "ˈɑːpəreɪt"
+ },
+ "railway": {
+  "uk": "ˈreɪlweɪ",
+  "us": "ˈreɪlweɪ"
+ },
+ "company": {
+  "uk": "ˈkʌmpəni",
+  "us": "ˈkʌmpəni"
+ },
+ "price": {
+  "uk": "praɪs",
+  "us": "praɪs"
+ },
+ "total": {
+  "uk": "ˈtəʊt(ə)l",
+  "us": "ˈtoʊt(ə)l"
+ },
+ "inch": {
+  "uk": "ɪntʃ",
+  "us": "ɪntʃ"
+ },
+ "sell": {
+  "uk": "sel",
+  "us": "sel"
+ },
+ "work as": {
+  "uk": "",
+  "us": ""
+ },
+ "(be) unaware of": {
+  "uk": "",
+  "us": ""
+ },
+ "depend on": {
+  "uk": "",
+  "us": ""
+ },
+ "in addition": {
+  "uk": "",
+  "us": "ɪn əˈdɪʃn"
+ },
+ "grand total": {
+  "uk": "ˌɡrænd ˈtəʊtl",
+  "us": ""
+ },
+ "advertisement": {
+  "uk": "ədˈvɜːtɪsmənt",
+  "us": "ˌædvərˈtaɪzmənt"
+ },
+ "funny": {
+  "uk": "ˈfʌni",
+  "us": "ˈfʌni"
+ },
+ "telephone": {
+  "uk": "ˈtelɪfəʊn",
+  "us": "ˈtelɪfoʊn"
+ },
+ "wheel": {
+  "uk": "wiːl",
+  "us": "wiːl"
+ },
+ "comfortable": {
+  "uk": "ˈkʌmftəb(ə)l",
+  "us": "ˈkʌmftəbl; ˈkʌmfərtəbl"
+ },
+ "carriage": {
+  "uk": "ˈkærɪdʒ",
+  "us": "ˈkærɪdʒ"
+ },
+ "passenger": {
+  "uk": "ˈpæsɪndʒə(r)",
+  "us": "ˈpæsɪndʒər"
+ },
+ "invent": {
+  "uk": "ɪnˈvent",
+  "us": "ɪnˈvent"
+ },
+ "practical": {
+  "uk": "ˈpræktɪkl",
+  "us": "ˈpræktɪk(ə)l"
+ },
+ "since": {
+  "uk": "sɪns",
+  "us": "sɪns"
+ },
+ "distance": {
+  "uk": "ˈdɪstəns",
+  "us": "ˈdɪstəns"
+ },
+ "mobile phone": {
+  "uk": "ˌməʊbaɪl ˈfəʊn",
+  "us": ""
+ },
+ "anytime": {
+  "uk": "ˈenɪtaɪm",
+  "us": "ˈeniˌtaɪm"
+ },
+ "lamp": {
+  "uk": "læmp",
+  "us": "læmp"
+ },
+ "candle": {
+  "uk": "ˈkænd(ə)l",
+  "us": "ˈkænd(ə)l"
+ },
+ "daytime": {
+  "uk": "ˈdeɪtaɪm",
+  "us": "ˈdeɪtaɪm"
+ },
+ "dust": {
+  "uk": "dʌst",
+  "us": "dʌst"
+ },
+ "special": {
+  "uk": "ˈspeʃ(ə)l",
+  "us": "ˈspeʃ(ə)l"
+ },
+ "wing": {
+  "uk": "wɪŋ",
+  "us": "wɪŋ"
+ },
+ "instead of": {
+  "uk": "ɪnˈsted əv",
+  "us": "ɪnˈsted əv"
+ },
+ "petrol": {
+  "uk": "ˈpetrəl",
+  "us": "ˈpetrəl"
+ },
+ "since then": {
+  "uk": "",
+  "us": "sɪns ðen"
+ },
+ "keep in touch with...": {
+  "uk": "",
+  "us": ""
+ },
+ "in the daytime": {
+  "uk": "",
+  "us": "ɪn ðə ˈdeɪtaɪm"
+ },
+ "keep......off": {
+  "uk": "",
+  "us": ""
+ },
+ "at the same time": {
+  "uk": "",
+  "us": "æt ðə seɪm taɪm"
+ },
+ "educational": {
+  "uk": "ˌedʒuˈkeɪʃən(ə)l",
+  "us": "ˌedʒuˈkeɪʃən(ə)l"
+ },
+ "exchange": {
+  "uk": "ɪksˈtʃeɪndʒ",
+  "us": "ɪksˈtʃeɪndʒ"
+ },
+ "British": {
+  "uk": "ˈbrɪtɪʃ",
+  "us": "ˈbrɪtɪʃ"
+ },
+ "chopstick": {
+  "uk": "ˈtʃɒpstɪk",
+  "us": "ˈtʃɑːpstɪk"
+ },
+ "weekday": {
+  "uk": "ˈwiːkdeɪ",
+  "us": "ˈwiːkdeɪ"
+ },
+ "tour": {
+  "uk": "tʊə(r)",
+  "us": "tʊr"
+ },
+ "t'ai chi": {
+  "uk": "",
+  "us": ""
+ },
+ "introduce": {
+  "uk": "ˌɪntrəˈdjuːs",
+  "us": "ˌɪntrəˈduːs"
+ },
+ "yet": {
+  "uk": "jet",
+  "us": "jet"
+ },
+ "at first": {
+  "uk": "",
+  "us": ""
+ },
+ "so far": {
+  "uk": "",
+  "us": ""
+ },
+ "a bit of": {
+  "uk": "",
+  "us": ""
+ },
+ "introduce to": {
+  "uk": "",
+  "us": ""
+ },
+ "come over (to......)": {
+  "uk": "",
+  "us": ""
+ },
+ "Trojan": {
+  "uk": "ˈtrəʊdʒən",
+  "us": "ˈtroʊdʒən"
+ },
+ "understand (understood)": {
+  "uk": "",
+  "us": ""
+ },
+ "pyramid": {
+  "uk": "ˈpɪrəmɪd",
+  "us": "ˈpɪrəmɪd"
+ },
+ "captain": {
+  "uk": "ˈkæptɪn",
+  "us": "ˈkæptɪn"
+ },
+ "Greek": {
+  "uk": "ɡriːk",
+  "us": "ɡriːk"
+ },
+ "capture": {
+  "uk": "ˈkæptʃə(r)",
+  "us": "ˈkæptʃər"
+ },
+ "soldier": {
+  "uk": "ˈsəʊldʒə(r)",
+  "us": "ˈsoʊldʒər"
+ },
+ "pull": {
+  "uk": "pʊl",
+  "us": "pʊl"
+ },
+ "main": {
+  "uk": "meɪn",
+  "us": "meɪn"
+ },
+ "stupid": {
+  "uk": "ˈstjuːpɪd",
+  "us": "ˈstuːpɪd"
+ },
+ "midnight": {
+  "uk": "ˈmɪdnaɪt",
+  "us": "ˈmɪdnaɪt"
+ },
+ "empty": {
+  "uk": "ˈempti",
+  "us": "ˈempti"
+ },
+ "except": {
+  "uk": "ɪkˈsept",
+  "us": "ɪkˈsept"
+ },
+ "secret": {
+  "uk": "ˈsiːkrət",
+  "us": "ˈsiːkrət"
+ },
+ "quietly": {
+  "uk": "ˈkwaɪətli",
+  "us": "ˈkwaɪətli"
+ },
+ "army": {
+  "uk": "ˈɑːmi",
+  "us": "ˈɑːrmi"
+ },
+ "enter": {
+  "uk": "ˈentə(r)",
+  "us": "ˈentər"
+ },
+ "succeed": {
+  "uk": "səkˈsiːd",
+  "us": "səkˈsiːd"
+ },
+ "trick": {
+  "uk": "trɪk",
+  "us": "trɪk"
+ },
+ "prince": {
+  "uk": "prɪns",
+  "us": "prɪns"
+ },
+ "queen": {
+  "uk": "kwiːn",
+  "us": "kwiːn"
+ },
+ "steal(stole, stolen)": {
+  "uk": "",
+  "us": ""
+ },
+ "punish": {
+  "uk": "ˈpʌnɪʃ",
+  "us": "ˈpʌnɪʃ"
+ },
+ "act out": {
+  "uk": "",
+  "us": "ækt aʊt"
+ },
+ "make jokes about": {
+  "uk": "",
+  "us": ""
+ },
+ "except for": {
+  "uk": "",
+  "us": ""
+ },
+ "be full of": {
+  "uk": "",
+  "us": ""
+ },
+ "in the end": {
+  "uk": "",
+  "us": "ɪn ði end"
+ },
+ "come on": {
+  "uk": "ˈkʌm ɒn",
+  "us": ""
+ },
+ "lose": {
+  "uk": "luːz",
+  "us": "luːz"
+ },
+ "mention": {
+  "uk": "ˈmenʃ(ə)n",
+  "us": "ˈmenʃ(ə)n"
+ },
+ "spelling": {
+  "uk": "ˈspelɪŋ",
+  "us": "ˈspelɪŋ"
+ },
+ "silly": {
+  "uk": "ˈsɪli",
+  "us": "ˈsɪli"
+ },
+ "mile": {
+  "uk": "maɪl",
+  "us": "maɪl"
+ },
+ "letter": {
+  "uk": "ˈletə(r)",
+  "us": "ˈletər"
+ },
+ "worth": {
+  "uk": "wɜːθ",
+  "us": "wɜːrθ"
+ },
+ "spell": {
+  "uk": "spel",
+  "us": "spel"
+ },
+ "unless": {
+  "uk": "ənˈles",
+  "us": "ənˈles"
+ },
+ "trouble": {
+  "uk": "ˈtrʌb(ə)l",
+  "us": "ˈtrʌb(ə)l"
+ },
+ "cycle": {
+  "uk": "ˈsaɪk(ə)l",
+  "us": "ˈsaɪk(ə)l"
+ },
+ "note": {
+  "uk": "nəʊt",
+  "us": "noʊt"
+ },
+ "wallet": {
+  "uk": "ˈwɒlɪt",
+  "us": "ˈwɑːlɪt"
+ },
+ "basket": {
+  "uk": "ˈbɑːskɪt",
+  "us": "ˈbæskɪt"
+ },
+ "manager": {
+  "uk": "ˈmænɪdʒə(r)",
+  "us": "ˈmænɪdʒər"
+ },
+ "take out": {
+  "uk": "",
+  "us": "teɪk aʊt"
+ },
+ "pour out": {
+  "uk": "",
+  "us": ""
+ },
+ "speech": {
+  "uk": "spiːtʃ",
+  "us": "spiːtʃ"
+ },
+ "notice": {
+  "uk": "ˈnəʊtɪs",
+  "us": "ˈnoʊtɪs"
+ },
+ "text": {
+  "uk": "tekst",
+  "us": "tekst"
+ },
+ "confidently": {
+  "uk": "ˈkɒnfɪdəntli",
+  "us": "ˈkɑːnfɪdəntli"
+ },
+ "winner": {
+  "uk": "ˈwɪnə(r)",
+  "us": "ˈwɪnər"
+ },
+ "advise": {
+  "uk": "ədˈvaɪz",
+  "us": "ədˈvaɪz"
+ },
+ "several": {
+  "uk": "ˈsevrəl",
+  "us": "ˈsevrəl"
+ },
+ "opinion": {
+  "uk": "əˈpɪnjən",
+  "us": "əˈpɪnjən"
+ },
+ "whole": {
+  "uk": "həʊl",
+  "us": "hoʊl"
+ },
+ "whenever": {
+  "uk": "wenˈevə(r)",
+  "us": "wenˈevər"
+ },
+ "poor": {
+  "uk": "pɔː(r); pʊə(r)",
+  "us": "pʊr"
+ },
+ "hide": {
+  "uk": "haɪd",
+  "us": "haɪd"
+ },
+ "attack": {
+  "uk": "əˈtæk",
+  "us": "əˈtæk"
+ },
+ "shy": {
+  "uk": "ʃaɪ",
+  "us": "ʃaɪ"
+ },
+ "choose": {
+  "uk": "tʃuːz",
+  "us": "tʃuːz"
+ },
+ "treasure hunt": {
+  "uk": "ˈtreʒə hʌnt",
+  "us": ""
+ },
+ "in public": {
+  "uk": "",
+  "us": "ɪn ˈpʌblɪk"
+ },
+ "in my opinion": {
+  "uk": "",
+  "us": "ɪn maɪ əˈpɪnjən"
+ },
+ "above all": {
+  "uk": "",
+  "us": "əˈbʌv ɔːl"
+ },
+ "look out": {
+  "uk": "lʊk aʊt",
+  "us": "lʊk aʊt"
+ },
+ "permission": {
+  "uk": "pəˈmɪʃ(ə)n",
+  "us": "pərˈmɪʃ(ə)n"
+ },
+ "disabled": {
+  "uk": "dɪsˈeɪb(ə)ld",
+  "us": "dɪsˈeɪbld"
+ },
+ "offer": {
+  "uk": "ˈɒfə(r)",
+  "us": "ˈɔːfər"
+ },
+ "suffer": {
+  "uk": "ˈsʌfə(r)",
+  "us": "ˈsʌfər"
+ },
+ "serious": {
+  "uk": "ˈsɪəriəs",
+  "us": "ˈsɪriəs"
+ },
+ "illness": {
+  "uk": "ˈɪlnəs",
+  "us": "ˈɪlnəs"
+ },
+ "organize (=organise)": {
+  "uk": "",
+  "us": ""
+ },
+ "pain": {
+  "uk": "peɪn",
+  "us": "peɪn"
+ },
+ "lonely": {
+  "uk": "ˈləʊnli",
+  "us": "ˈloʊnli"
+ },
+ "difficulty": {
+  "uk": "ˈdɪfɪkəlti",
+  "us": "ˈdɪfɪkəlti"
+ },
+ "joy": {
+  "uk": "dʒɔɪ",
+  "us": "dʒɔɪ"
+ },
+ "peace": {
+  "uk": "piːs",
+  "us": "piːs"
+ },
+ "hurt": {
+  "uk": "hɜːt",
+  "us": "hɜːrt"
+ },
+ "spirits": {
+  "uk": "ˈspɪrɪt",
+  "us": "ˈspɪrɪts"
+ },
+ "pay": {
+  "uk": "peɪ",
+  "us": "peɪ"
+ },
+ "in need": {
+  "uk": "",
+  "us": "ɪn niːd"
+ },
+ "voluntary work": {
+  "uk": "",
+  "us": ""
+ },
+ "ask permission": {
+  "uk": "",
+  "us": ""
+ },
+ "suffer from...": {
+  "uk": "",
+  "us": ""
+ },
+ "raise one's spirits": {
+  "uk": "",
+  "us": ""
+ },
+ "in order to": {
+  "uk": "",
+  "us": ""
+ },
+ "communication": {
+  "uk": "kəˌmjuːnɪˈkeɪʃ(ə)n",
+  "us": "kəˌmjuːnɪˈkeɪʃn"
+ },
+ "ballet": {
+  "uk": "ˈbæleɪ",
+  "us": "bæˈleɪ"
+ },
+ "accept": {
+  "uk": "əkˈsept",
+  "us": "əkˈsept"
+ },
+ "reject": {
+  "uk": "rɪˈdʒekt",
+  "us": "rɪˈdʒekt"
+ },
+ "meaning": {
+  "uk": "ˈmiːnɪŋ",
+  "us": "ˈmiːnɪŋ"
+ },
+ "gesture": {
+  "uk": "ˈdʒestʃə(r)",
+  "us": "ˈdʒestʃər"
+ },
+ "message": {
+  "uk": "ˈmesɪdʒ",
+  "us": "ˈmesɪdʒ"
+ },
+ "part time": {
+  "uk": "ˌpɑːt ˈtaɪm",
+  "us": ""
+ },
+ "well-dressed": {
+  "uk": "ˌwel ˈdrest",
+  "us": "ˌwel ˈdrest"
+ },
+ "lady": {
+  "uk": "ˈleɪdi",
+  "us": "ˈleɪdi"
+ },
+ "sigh": {
+  "uk": "saɪ",
+  "us": "saɪ"
+ },
+ "matter": {
+  "uk": "ˈmætə(r)",
+  "us": "ˈmætər"
+ },
+ "expression": {
+  "uk": "ɪkˈspreʃ(ə)n",
+  "us": "ɪkˈspreʃ(ə)n"
+ },
+ "impression": {
+  "uk": "ɪmˈpreʃ(ə)n",
+  "us": "ɪmˈpreʃ(ə)n"
+ },
+ "towards": {
+  "uk": "təˈwɔːdz",
+  "us": "tɔːrdz"
+ },
+ "hold": {
+  "uk": "həʊld",
+  "us": "hoʊld"
+ },
+ "later": {
+  "uk": "ˈleɪtə(r)",
+  "us": "ˈleɪtər"
+ },
+ "remind": {
+  "uk": "rɪˈmaɪnd",
+  "us": "rɪˈmaɪnd"
+ },
+ "neck": {
+  "uk": "nek",
+  "us": "nek"
+ },
+ "cross": {
+  "uk": "krɒs",
+  "us": "krɔːs"
+ },
+ "nod": {
+  "uk": "nɒd",
+  "us": "nɑːd"
+ },
+ "shake": {
+  "uk": "ʃeɪk",
+  "us": "ʃeɪk"
+ },
+ "sure": {
+  "uk": "ʃʊə(r); ʃɔː(r)",
+  "us": "ʃʊr"
+ },
+ "take place": {
+  "uk": "",
+  "us": "teɪk pleɪs"
+ },
+ "sit up": {
+  "uk": "ˈsɪt ʌp",
+  "us": "sɪt ʌp"
+ },
+ "make a good impression on": {
+  "uk": "",
+  "us": ""
+ },
+ "remind sb about sth": {
+  "uk": "",
+  "us": ""
+ },
+ "description": {
+  "uk": "dɪˈskrɪpʃn",
+  "us": "dɪˈskrɪpʃn"
+ },
+ "fisherman": {
+  "uk": "ˈfɪʃəmən",
+  "us": "ˈfɪʃərmən"
+ },
+ "net": {
+  "uk": "net",
+  "us": "net"
+ },
+ "although": {
+  "uk": "ɔːlˈðəʊ",
+  "us": "ɔːlˈðoʊ"
+ },
+ "cormorant": {
+  "uk": "ˈkɔːmərənt",
+  "us": "ˈkɔːrmərənt"
+ },
+ "dive": {
+  "uk": "daɪv",
+  "us": "daɪv"
+ },
+ "ready": {
+  "uk": "ˈredi",
+  "us": "ˈredi"
+ },
+ "hang": {
+  "uk": "hæŋ",
+  "us": "hæŋ"
+ },
+ "post": {
+  "uk": "pəʊst",
+  "us": "poʊst"
+ },
+ "require": {
+  "uk": "rɪˈkwaɪə(r)",
+  "us": "rɪˈkwaɪər"
+ },
+ "scissors": {
+  "uk": "ˈsɪzəz",
+  "us": "ˈsɪzərz"
+ },
+ "health": {
+  "uk": "helθ",
+  "us": "helθ"
+ },
+ "luck": {
+  "uk": "lʌk",
+  "us": "lʌk"
+ },
+ "wedding": {
+  "uk": "ˈwedɪŋ",
+  "us": "ˈwedɪŋ"
+ },
+ "dough": {
+  "uk": "dəʊ",
+  "us": "doʊ"
+ },
+ "rough": {
+  "uk": "rʌf",
+  "us": "rʌf"
+ },
+ "simple": {
+  "uk": "ˈsɪmp(ə)l",
+  "us": "ˈsɪmp(ə)l"
+ },
+ "lovely": {
+  "uk": "ˈlʌvli",
+  "us": "ˈlʌvli"
+ },
+ "paper cutting": {
+  "uk": "",
+  "us": ""
+ },
+ "up to": {
+  "uk": "",
+  "us": "ʌp tu"
+ },
+ "set off": {
+  "uk": "set ɒf",
+  "us": ""
+ },
+ "up and down": {
+  "uk": "ʌp ən daʊn",
+  "us": "ʌp ənd daʊn"
+ },
+ "after dark": {
+  "uk": "",
+  "us": ""
+ },
+ "no more": {
+  "uk": "",
+  "us": ""
+ },
+ "all the time": {
+  "uk": "",
+  "us": "ɔːl ðə taɪm"
+ },
+ "cartoon": {
+  "uk": "kɑːˈtuːn",
+  "us": "kɑːrˈtuːn"
+ },
+ "warning": {
+  "uk": "ˈwɔːnɪŋ",
+  "us": "ˈwɔːrnɪŋ"
+ },
+ "role-play": {
+  "uk": "ˈrəʊl pleɪ",
+  "us": "ˈroʊl pleɪ"
+ },
+ "symbol": {
+  "uk": "ˈsɪmb(ə)l",
+  "us": "ˈsɪmb(ə)l"
+ },
+ "bubble": {
+  "uk": "ˈbʌb(ə)l",
+  "us": "ˈbʌb(ə)l"
+ },
+ "sketch": {
+  "uk": "sketʃ",
+  "us": "sketʃ"
+ },
+ "program": {
+  "uk": "ˈprəʊɡræm",
+  "us": "ˈproʊɡræm"
+ },
+ "record": {
+  "uk": "ˈrekɔːd; rɪˈkɔːd",
+  "us": "ˈrekərd; rɪˈkɔːrd"
+ },
+ "effect": {
+  "uk": "ɪˈfekt",
+  "us": "ɪˈfekt"
+ },
+ "stage": {
+  "uk": "steɪdʒ",
+  "us": "steɪdʒ"
+ },
+ "pleasant": {
+  "uk": "ˈplez(ə)nt",
+  "us": "ˈplez(ə)nt"
+ },
+ "detailed": {
+  "uk": "ˈdiːteɪld",
+  "us": "ˈdiːteɪld; dɪˈteɪld"
+ },
+ "appear": {
+  "uk": "əˈpɪə(r)",
+  "us": "əˈpɪr"
+ },
+ "actor": {
+  "uk": "ˈæktə(r)",
+  "us": "ˈæktər"
+ },
+ "separately": {
+  "uk": "ˈseprətli",
+  "us": "ˈseprətli"
+ },
+ "play": {
+  "uk": "pleɪ",
+  "us": "pleɪ"
+ },
+ "score": {
+  "uk": "skɔː(r)",
+  "us": "skɔːr"
+ },
+ "star": {
+  "uk": "stɑː(r)",
+  "us": "stɑːr"
+ },
+ "mystery": {
+  "uk": "ˈmɪst(ə)ri",
+  "us": "ˈmɪstəri"
+ },
+ "storm": {
+  "uk": "stɔːm",
+  "us": "stɔːrm"
+ },
+ "jacket": {
+  "uk": "ˈdʒækɪt",
+  "us": "ˈdʒækɪt"
+ },
+ "wave": {
+  "uk": "weɪv",
+  "us": "weɪv"
+ },
+ "comic strip": {
+  "uk": "ˈkɒmɪk strɪp",
+  "us": ""
+ },
+ "pop out": {
+  "uk": "",
+  "us": ""
+ },
+ "decide on": {
+  "uk": "",
+  "us": ""
+ },
+ "video camera": {
+  "uk": "",
+  "us": ""
+ },
+ "play against": {
+  "uk": "",
+  "us": ""
+ },
+ "weather forecast": {
+  "uk": "ˈweðə fɔːkɑːst",
+  "us": ""
+ },
+ "life jacket": {
+  "uk": "ˈlaɪf dʒækɪt",
+  "us": "ˈlaɪf dʒækɪt"
+ },
+ "thank goodness": {
+  "uk": "",
+  "us": "θæŋk ˈɡʊdnəs"
+ },
+ "make it": {
+  "uk": "",
+  "us": "meɪk ɪt"
+ },
+ "obligation": {
+  "uk": "ˌɒblɪˈɡeɪʃ(ə)n",
+  "us": "ˌɑːblɪˈɡeɪʃn"
+ },
+ "bamboo": {
+  "uk": "ˌbæmˈbuː",
+  "us": "ˌbæmˈbuː"
+ },
+ "weight": {
+  "uk": "weɪt",
+  "us": "weɪt"
+ },
+ "behaviour": {
+  "uk": "bɪˈheɪvjə(r)",
+  "us": "bɪˈheɪvjər"
+ },
+ "birth": {
+  "uk": "bɜːθ",
+  "us": "bɜːrθ"
+ },
+ "patch": {
+  "uk": "pætʃ",
+  "us": "pætʃ"
+ },
+ "shoulder": {
+  "uk": "ˈʃəʊldə(r)",
+  "us": "ˈʃoʊldər"
+ },
+ "central": {
+  "uk": "ˈsentrəl",
+  "us": "ˈsentrəl"
+ },
+ "menu": {
+  "uk": "ˈmenjuː",
+  "us": "ˈmenjuː"
+ },
+ "fur": {
+  "uk": "fɜː(r)",
+  "us": "fɜːr"
+ },
+ "cruel": {
+  "uk": "ˈkruːəl",
+  "us": "ˈkruːəl"
+ },
+ "organization": {
+  "uk": "ˌɔːɡənaɪˈzeɪʃn",
+  "us": "ˌɔːrɡənəˈzeɪʃ(ə)n"
+ },
+ "danger": {
+  "uk": "ˈdeɪndʒə(r)",
+  "us": "ˈdeɪndʒər"
+ },
+ "face": {
+  "uk": "feɪs",
+  "us": "feɪs"
+ },
+ "Asian": {
+  "uk": "ˈeɪʒ(ə)n",
+  "us": "ˈeɪʒ(ə)n"
+ },
+ "at birth": {
+  "uk": "",
+  "us": ""
+ },
+ "on one's own": {
+  "uk": "",
+  "us": ""
+ },
+ "close to": {
+  "uk": "",
+  "us": ""
+ },
+ "respond": {
+  "uk": "rɪˈspɒnd",
+  "us": "rɪˈspɑːnd"
+ },
+ "complaint": {
+  "uk": "kəmˈpleɪnt",
+  "us": "kəmˈpleɪnt"
+ },
+ "cause": {
+  "uk": "kɔːz",
+  "us": "kɔːz"
+ },
+ "chocolate": {
+  "uk": "ˈtʃɒklət",
+  "us": "ˈtʃɔːklət"
+ },
+ "click": {
+  "uk": "klɪk",
+  "us": "klɪk"
+ },
+ "cute": {
+  "uk": "kjuːt",
+  "us": "kjuːt"
+ },
+ "responsibility": {
+  "uk": "rɪˌspɒnsəˈbɪləti",
+  "us": "rɪˌspɑːnsəˈbɪləti"
+ },
+ "faithfully": {
+  "uk": "ˈfeɪθfəli",
+  "us": "ˈfeɪθfəli"
+ },
+ "sofa": {
+  "uk": "ˈsəʊfə",
+  "us": "ˈsoʊfə"
+ },
+ "noisy": {
+  "uk": "ˈnɔɪzi",
+  "us": "ˈnɔɪzi"
+ },
+ "stranger": {
+  "uk": "ˈstreɪndʒə(r)",
+  "us": "ˈstreɪndʒər"
+ },
+ "common": {
+  "uk": "ˈkɒmən",
+  "us": "ˈkɑːmən"
+ },
+ "choice": {
+  "uk": "tʃɔɪs",
+  "us": "tʃɔɪs"
+ },
+ "scare": {
+  "uk": "skeə(r)",
+  "us": "sker"
+ },
+ "believe": {
+  "uk": "bɪˈliːv",
+  "us": "bɪˈliːv"
+ },
+ "heart attack": {
+  "uk": "ˈhɑːt ətæk",
+  "us": ""
+ },
+ "unitl": {
+  "uk": "",
+  "us": ""
+ },
+ "care for": {
+  "uk": "",
+  "us": ""
+ },
+ "have no choice but to do": {
+  "uk": "",
+  "us": ""
+ },
+ "run free": {
+  "uk": "",
+  "us": "rʌn friː"
+ },
+ "lie around": {
+  "uk": "",
+  "us": "laɪ əˈraʊnd"
+ },
+ "keep sb from (doing) sth": {
+  "uk": "",
+  "us": ""
+ },
+ "be faithful to": {
+  "uk": "",
+  "us": "bi ˈfeɪθfl tu"
+ },
+ "die of": {
+  "uk": "",
+  "us": ""
+ },
+ "keep on": {
+  "uk": "",
+  "us": "kip ɑn"
+ },
+ "unknown": {
+  "uk": "ˌʌnˈnəʊn",
+  "us": "ˌʌnˈnoʊn"
+ },
+ "alien": {
+  "uk": "ˈeɪliən",
+  "us": "ˈeɪliən"
+ },
+ "astronaut": {
+  "uk": "ˈæstrənɔːt",
+  "us": "ˈæstrənɔːt"
+ },
+ "hill": {
+  "uk": "hɪl",
+  "us": "hɪl"
+ },
+ "aloud": {
+  "uk": "əˈlaʊd",
+  "us": "əˈlaʊd"
+ },
+ "bush": {
+  "uk": "bʊʃ",
+  "us": "bʊʃ"
+ },
+ "quiet": {
+  "uk": "ˈkwaɪət",
+  "us": "ˈkwaɪət"
+ },
+ "round": {
+  "uk": "raʊnd",
+  "us": "raʊnd"
+ },
+ "damage": {
+  "uk": "ˈdæmɪdʒ",
+  "us": "ˈdæmɪdʒ"
+ },
+ "crash": {
+  "uk": "kræʃ",
+  "us": "kræʃ"
+ },
+ "frightened": {
+  "uk": "ˈfraɪt(ə)nd",
+  "us": "ˈfraɪt(ə)nd"
+ },
+ "terrible": {
+  "uk": "ˈterəb(ə)l",
+  "us": "ˈterəb(ə)l"
+ },
+ "fear": {
+  "uk": "fɪə(r)",
+  "us": "fɪr"
+ },
+ "creature": {
+  "uk": "ˈkriːtʃə(r)",
+  "us": "ˈkriːtʃər"
+ },
+ "feather": {
+  "uk": "ˈfeðə(r)",
+  "us": "ˈfeðər"
+ },
+ "wonder": {
+  "uk": "ˈwʌndə(r)",
+  "us": "ˈwʌndər"
+ },
+ "line": {
+  "uk": "laɪn",
+  "us": "laɪn"
+ },
+ "refuse": {
+  "uk": "rɪˈfjuːz",
+  "us": "rɪˈfjuːz"
+ },
+ "mark": {
+  "uk": "mɑːk",
+  "us": "mɑːrk"
+ },
+ "tent": {
+  "uk": "tent",
+  "us": "tent"
+ },
+ "knife": {
+  "uk": "naɪf",
+  "us": "naɪf"
+ },
+ "pleased": {
+  "uk": "pliːzd",
+  "us": "pliːzd"
+ },
+ "keep quiet": {
+  "uk": "",
+  "us": "kiːp ˈkwaɪət"
+ },
+ "because of": {
+  "uk": "",
+  "us": ""
+ },
+ "in fear": {
+  "uk": "",
+  "us": "ɪn fɪr"
+ },
+ "landing site": {
+  "uk": "",
+  "us": "ˈlændɪŋ saɪt"
+ },
+ "as soon as possible": {
+  "uk": "",
+  "us": ""
+ },
+ "agree with": {
+  "uk": "",
+  "us": "əˈɡriː wɪð"
+ },
+ "disagree with": {
+  "uk": "",
+  "us": "ˌdɪsəˈɡriː wɪð"
+ },
+ "Internet": {
+  "uk": "ˈɪntənet",
+  "us": "ˈɪntərnet"
+ },
+ "apology": {
+  "uk": "əˈpɒlədʒi",
+  "us": "əˈpɑːlədʒi"
+ },
+ "excuse": {
+  "uk": "ɪkˈskjuːs",
+  "us": "ɪkˈskjuːs"
+ },
+ "past": {
+  "uk": "pɑːst",
+  "us": "pæst"
+ },
+ "present": {
+  "uk": "ˈprez(ə)nt; prɪˈzent",
+  "us": "ˈprez(ə)nt; prɪˈzent"
+ },
+ "hydrogen": {
+  "uk": "ˈhaɪdrədʒən",
+  "us": "ˈhaɪdrədʒən"
+ },
+ "cafe": {
+  "uk": "ˈkæfeɪ",
+  "us": "kæˈfeɪ"
+ },
+ "forever": {
+  "uk": "fərˈevə(r)",
+  "us": "fərˈevər"
+ },
+ "certainly": {
+  "uk": "ˈsɜːt(ə)nli",
+  "us": "ˈsɜːrt(ə)nli"
+ },
+ "recommend": {
+  "uk": "ˌrekəˈmend",
+  "us": "ˌrekəˈmend"
+ },
+ "satisty": {
+  "uk": "",
+  "us": ""
+ },
+ "electronic": {
+  "uk": "ɪˌlekˈtrɒnɪk",
+  "us": "ɪˌlekˈtrɑːnɪk"
+ },
+ "relax": {
+  "uk": "rɪˈlæks",
+  "us": "rɪˈlæks"
+ },
+ "software": {
+  "uk": "ˈsɒftweə(r)",
+  "us": "ˈsɔːftwer"
+ },
+ "virus": {
+  "uk": "ˈvaɪrəs",
+  "us": "ˈvaɪrəs"
+ },
+ "in the present": {
+  "uk": "",
+  "us": ""
+ },
+ "at the front": {
+  "uk": "",
+  "us": "æt ðə frʌnt"
+ },
+ "on the Internet": {
+  "uk": "",
+  "us": ""
+ },
+ "in the shape of": {
+  "uk": "",
+  "us": ""
+ },
+ "mix...... with......": {
+  "uk": "",
+  "us": ""
+ },
+ "prepare for": {
+  "uk": "",
+  "us": ""
+ },
+ "in a second": {
+  "uk": "",
+  "us": "ɪn ə ˈsekənd"
+ },
+ "golden": {
+  "uk": "ˈɡəʊldən",
+  "us": "ˈɡoʊldən"
+ },
+ "crown": {
+  "uk": "kraʊn",
+  "us": "kraʊn"
+ },
+ "Olympics": {
+  "uk": "əˈlɪmpɪks",
+  "us": "əˌlɪmpɪks"
+ },
+ "agreement": {
+  "uk": "əˈɡriːmənt",
+  "us": "əˈɡriːmənt"
+ },
+ "confirmation": {
+  "uk": "ˌkɒnfəˈmeɪʃ(ə)n",
+  "us": "ˌkɑːnfərˈmeɪʃ(ə)n"
+ },
+ "pot": {
+  "uk": "pɒt",
+  "us": "pɑːt"
+ },
+ "doubt": {
+  "uk": "daʊt",
+  "us": "daʊt"
+ },
+ "truth": {
+  "uk": "truːθ",
+  "us": "truːθ"
+ },
+ "fill": {
+  "uk": "fɪl",
+  "us": "fɪl"
+ },
+ "bowl": {
+  "uk": "bəʊl",
+  "us": "boʊl"
+ },
+ "displace": {
+  "uk": "dɪsˈpleɪs",
+  "us": "dɪsˈpleɪs"
+ },
+ "less": {
+  "uk": "les",
+  "us": "les"
+ },
+ "metal": {
+  "uk": "ˈmet(ə)l",
+  "us": "ˈmet(ə)l"
+ },
+ "prison": {
+  "uk": "ˈprɪz(ə)n",
+  "us": "ˈprɪzn"
+ },
+ "boxing": {
+  "uk": "ˈbɒksɪŋ",
+  "us": "ˈbɑːksɪŋ"
+ },
+ "racing": {
+  "uk": "ˈreɪsɪŋ",
+  "us": "ˈreɪsɪŋ"
+ },
+ "wrestling": {
+  "uk": "ˈreslɪŋ",
+  "us": "ˈreslɪŋ"
+ },
+ "hit": {
+  "uk": "hɪt",
+  "us": "hɪt"
+ },
+ "punctuation": {
+  "uk": "ˌpʌŋktʃuˈeɪʃn",
+  "us": "ˌpʌŋktʃuˈeɪʃ(ə)n"
+ },
+ "correct": {
+  "uk": "kəˈrekt",
+  "us": "kəˈrekt"
+ },
+ "mistake": {
+  "uk": "mɪˈsteɪk",
+  "us": "mɪˈsteɪk"
+ },
+ "be happy with": {
+  "uk": "",
+  "us": ""
+ },
+ "fill...with...": {
+  "uk": "",
+  "us": ""
+ },
+ "run over": {
+  "uk": "",
+  "us": ""
+ },
+ "send......to prison": {
+  "uk": "",
+  "us": ""
+ },
+ "astronomer": {
+  "uk": "əˈstrɒnəmə(r)",
+  "us": "əˈstrɑːnəmər"
+ },
+ "genius": {
+  "uk": "ˈdʒiːniəs",
+  "us": "ˈdʒiːniəs"
+ },
+ "consider": {
+  "uk": "kənˈsɪdə(r)",
+  "us": "kənˈsɪdər"
+ },
+ "sense": {
+  "uk": "sens",
+  "us": "sens"
+ },
+ "humour": {
+  "uk": "ˈhjuːmə(r)",
+  "us": "ˈhjuːmər"
+ },
+ "invitation": {
+  "uk": "ˌɪnvɪˈteɪʃ(ə)n",
+  "us": "ˌɪnvɪˈteɪʃ(ə)n"
+ },
+ "theory": {
+  "uk": "ˈθɪəri",
+  "us": "ˈθiːəri"
+ },
+ "university": {
+  "uk": "ˌjuːnɪˈvɜːsəti",
+  "us": "ˌjuːnɪˈvɜːrsəti"
+ },
+ "pleasure": {
+  "uk": "ˈpleʒə(r)",
+  "us": "ˈpleʒər"
+ },
+ "avoid": {
+  "uk": "əˈvɔɪd",
+  "us": "əˈvɔɪd"
+ },
+ "tonight": {
+  "uk": "təˈnaɪt",
+  "us": "təˈnaɪt"
+ },
+ "seat": {
+  "uk": "siːt",
+  "us": "siːt"
+ },
+ "applause": {
+  "uk": "əˈplɔːz",
+  "us": "əˈplɔːz"
+ },
+ "pale": {
+  "uk": "peɪl",
+  "us": "peɪl"
+ },
+ "achievement": {
+  "uk": "əˈtʃiːvmənt",
+  "us": "əˈtʃiːvmənt"
+ },
+ "philosopher": {
+  "uk": "fəˈlɒsəfə(r)",
+  "us": "fəˈlɑːsəfər"
+ },
+ "obey": {
+  "uk": "əˈbeɪ",
+  "us": "əˈbeɪ"
+ },
+ "reduce": {
+  "uk": "rɪˈdjuːs",
+  "us": "rɪˈduːs"
+ },
+ "exactly": {
+  "uk": "ɪɡˈzæktli",
+  "us": "ɪɡˈzæktli"
+ },
+ "action": {
+  "uk": "ˈækʃ(ə)n",
+  "us": "ˈækʃ(ə)n"
+ },
+ "sense of humour": {
+  "uk": "",
+  "us": ""
+ },
+ "let...... down": {
+  "uk": "",
+  "us": ""
+ },
+ "by heart": {
+  "uk": "",
+  "us": ""
+ },
+ "take a seat": {
+  "uk": "",
+  "us": "teɪk ə siːt"
+ },
+ "without difficulty": {
+  "uk": "",
+  "us": "wɪˈðaʊt ˈdɪfɪkəlti"
+ },
+ "have no idea": {
+  "uk": "",
+  "us": ""
+ },
+ "be in trouble": {
+  "uk": "",
+  "us": "bi ɪn ˈtrʌbl"
+ },
+ "play a joke on sb": {
+  "uk": "",
+  "us": ""
+ },
+ "turning point": {
+  "uk": "ˈtɜːnɪŋ pɔɪnt",
+  "us": ""
+ },
+ "a series of": {
+  "uk": "",
+  "us": ""
+ },
+ "meal": {
+  "uk": "miːl",
+  "us": "miːl"
+ },
+ "share": {
+  "uk": "ʃeə(r)",
+  "us": "ʃer"
+ },
+ "decision": {
+  "uk": "dɪˈsɪʒ(ə)n",
+  "us": "dɪˈsɪʒ(ə)n"
+ },
+ "possessions": {
+  "uk": "pəˈzeʃənz",
+  "us": "pəˈzeʃnz"
+ },
+ "expect": {
+  "uk": "ɪkˈspekt",
+  "us": "ɪkˈspekt"
+ },
+ "abroad": {
+  "uk": "əˈbrɔːd",
+  "us": "əˈbrɔːd"
+ },
+ "set": {
+  "uk": "set",
+  "us": "set"
+ },
+ "daughter": {
+  "uk": "ˈdɔːtə(r)",
+  "us": "ˈdɔːtər"
+ },
+ "fashionable": {
+  "uk": "ˈfæʃ(ə)nəb(ə)l",
+  "us": "ˈfæʃ(ə)nəb(ə)l"
+ },
+ "fashion": {
+  "uk": "ˈfæʃ(ə)n",
+  "us": "ˈfæʃ(ə)n"
+ },
+ "out of date": {
+  "uk": "ˌaʊt əv ˈdeɪt",
+  "us": "ˌaʊt əv ˈdeɪt"
+ },
+ "iron": {
+  "uk": "ˈaɪən",
+  "us": "ˈaɪərn"
+ },
+ "suppose": {
+  "uk": "səˈpəʊz",
+  "us": "səˈpoʊz"
+ },
+ "relationship": {
+  "uk": "rɪˈleɪʃ(ə)nʃɪp",
+  "us": "rɪˈleɪʃ(ə)nʃɪp"
+ },
+ "invite": {
+  "uk": "ɪnˈvaɪt",
+  "us": "ɪnˈvaɪt"
+ },
+ "cost": {
+  "uk": "kɒst",
+  "us": "kɔːst"
+ },
+ "help with": {
+  "uk": "",
+  "us": "help wɪð"
+ },
+ "be on business": {
+  "uk": "",
+  "us": ""
+ },
+ "have no interest in": {
+  "uk": "",
+  "us": ""
+ },
+ "model": {
+  "uk": "ˈmɒd(ə)l",
+  "us": "ˈmɑːd(ə)l"
+ },
+ "diet": {
+  "uk": "ˈdaɪət",
+  "us": "ˈdaɪət"
+ },
+ "though": {
+  "uk": "ðəʊ",
+  "us": "ðoʊ"
+ },
+ "awful": {
+  "uk": "ˈɔːf(ə)l",
+  "us": "ˈɔːf(ə)l"
+ },
+ "regret": {
+  "uk": "rɪˈɡret",
+  "us": "rɪˈɡret"
+ },
+ "ashamed": {
+  "uk": "əˈʃeɪmd",
+  "us": "əˈʃeɪmd"
+ },
+ "situation": {
+  "uk": "ˌsɪtʃuˈeɪʃ(ə)n",
+  "us": "ˌsɪtʃuˈeɪʃ(ə)n"
+ },
+ "braces": {
+  "uk": "ˈbreɪsɪz",
+  "us": "ˈbreɪsɪz"
+ },
+ "hate": {
+  "uk": "heɪt",
+  "us": "heɪt"
+ },
+ "advantage": {
+  "uk": "ədˈvɑːntɪdʒ",
+  "us": "ədˈvæntɪdʒ"
+ },
+ "embarrassed": {
+  "uk": "ɪmˈbærəst",
+  "us": "ɪmˈbærəst"
+ },
+ "suggest": {
+  "uk": "səˈdʒest",
+  "us": "səˈdʒest"
+ },
+ "mad": {
+  "uk": "mæd",
+  "us": "mæd"
+ },
+ "mess": {
+  "uk": "mes",
+  "us": "mes"
+ },
+ "annoying": {
+  "uk": "əˈnɔɪɪŋ",
+  "us": "əˈnɔɪɪŋ"
+ },
+ "fail": {
+  "uk": "feɪl",
+  "us": "feɪl"
+ },
+ "careless": {
+  "uk": "ˈkeələs",
+  "us": "ˈkerləs"
+ },
+ "comment": {
+  "uk": "ˈkɒment",
+  "us": "ˈkɑːment"
+ },
+ "request": {
+  "uk": "rɪˈkwest",
+  "us": "rɪˈkwest"
+ },
+ "polite": {
+  "uk": "pəˈlaɪt",
+  "us": "pəˈlaɪt"
+ },
+ "none": {
+  "uk": "nʌn",
+  "us": "nʌn"
+ },
+ "exam": {
+  "uk": "ɪɡˈzæm",
+  "us": "ɪɡˈzæm"
+ },
+ "（be）on a diet": {
+  "uk": "",
+  "us": ""
+ },
+ "laugh at": {
+  "uk": "",
+  "us": "læf æt"
+ },
+ "feel ashamed of": {
+  "uk": "",
+  "us": ""
+ },
+ "drive sb mad": {
+  "uk": "",
+  "us": ""
+ },
+ "make a mess": {
+  "uk": "",
+  "us": "meɪk ə mes"
+ },
+ "out of place": {
+  "uk": "",
+  "us": ""
+ },
+ "none of one's business": {
+  "uk": "",
+  "us": ""
+ },
+ "hear from": {
+  "uk": "",
+  "us": ""
+ },
+ "script": {
+  "uk": "skrɪpt",
+  "us": "skrɪpt"
+ },
+ "director": {
+  "uk": "dəˈrektə(r); daɪˈrektə(r)",
+  "us": "dəˈrektər"
+ },
+ "make-up": {
+  "uk": "ˈmeɪk ʌp",
+  "us": "ˈmeɪk ʌp"
+ },
+ "artist": {
+  "uk": "ˈɑːtɪst",
+  "us": "ˈɑːrtɪst"
+ },
+ "studio": {
+  "uk": "ˈstjuːdiəʊ",
+  "us": "ˈstuːdioʊ"
+ },
+ "contestant": {
+  "uk": "kənˈtestənt",
+  "us": "kənˈtestənt"
+ },
+ "upon": {
+  "uk": "əˈpɒn",
+  "us": "əˈpɑːn"
+ },
+ "among": {
+  "uk": "əˈmʌŋ",
+  "us": "əˈmʌŋ"
+ },
+ "onto": {
+  "uk": "ˈɒntə",
+  "us": "ˈɑːntə"
+ },
+ "forward": {
+  "uk": "ˈfɔːwəd",
+  "us": "ˈfɔːrwərd"
+ },
+ "second": {
+  "uk": "ˈsekənd",
+  "us": "ˈsekənd"
+ },
+ "relaxed": {
+  "uk": "rɪˈlækst",
+  "us": "rɪˈlækst"
+ },
+ "ahead of": {
+  "uk": "əˈhed əv",
+  "us": "əˈhed əv"
+ },
+ "beat(beat)": {
+  "uk": "",
+  "us": ""
+ },
+ "still": {
+  "uk": "stɪl",
+  "us": "stɪl"
+ },
+ "victory": {
+  "uk": "ˈvɪktəri",
+  "us": "ˈvɪktəri"
+ },
+ "England": {
+  "uk": "ˈɪŋɡlənd",
+  "us": "ˈɪŋɡlənd"
+ },
+ "lucky": {
+  "uk": "ˈlʌki",
+  "us": "ˈlʌki"
+ },
+ "news": {
+  "uk": "njuːz",
+  "us": "nuːz"
+ },
+ "floor plan": {
+  "uk": "ˈflɔː plæn",
+  "us": ""
+ },
+ "talent show": {
+  "uk": "ˈtælənt ʃəʊ",
+  "us": ""
+ },
+ "pass out": {
+  "uk": "",
+  "us": "pæs aʊt"
+ },
+ "keep still": {
+  "uk": "",
+  "us": "kiːp stɪl"
+ },
+ "emergency exit": {
+  "uk": "",
+  "us": ""
+ },
+ "on weekdays": {
+  "uk": "",
+  "us": ""
+ },
+ "preference": {
+  "uk": "ˈprefrəns",
+  "us": "ˈprefrəns"
+ },
+ "bean": {
+  "uk": "biːn",
+  "us": "biːn"
+ },
+ "beef": {
+  "uk": "biːf",
+  "us": "biːf"
+ },
+ "protein": {
+  "uk": "ˈprəʊtiːn",
+  "us": "ˈproʊtiːn"
+ },
+ "hamburger": {
+  "uk": "ˈhæmbɜːɡə(r)",
+  "us": "ˈhæmbɜːrɡər"
+ },
+ "cola": {
+  "uk": "ˈkəʊlə",
+  "us": "ˈkoʊlə"
+ },
+ "sandwich": {
+  "uk": "ˈsænwɪtʃ",
+  "us": "ˈsænwɪtʃ"
+ },
+ "salad": {
+  "uk": "ˈsæləd",
+  "us": "ˈsæləd"
+ },
+ "fat": {
+  "uk": "fæt",
+  "us": "fæt"
+ },
+ "sugar": {
+  "uk": "ˈʃʊɡə(r)",
+  "us": "ˈʃʊɡər"
+ },
+ "state": {
+  "uk": "steɪt",
+  "us": "steɪt"
+ },
+ "necessary": {
+  "uk": "ˈnesəsəri",
+  "us": "ˈnesəseri"
+ },
+ "plenty": {
+  "uk": "ˈplenti",
+  "us": "ˈplenti"
+ },
+ "usual": {
+  "uk": "ˈjuːʒuəl",
+  "us": "ˈjuːʒuəl"
+ },
+ "coffee": {
+  "uk": "ˈkɒfi",
+  "us": "ˈkɔːfi"
+ },
+ "title": {
+  "uk": "ˈtaɪt(ə)l",
+  "us": "ˈtaɪt(ə)l"
+ },
+ "serve": {
+  "uk": "sɜːv",
+  "us": "sɜːrv"
+ },
+ "pound": {
+  "uk": "paʊnd",
+  "us": "paʊnd"
+ },
+ "chip": {
+  "uk": "tʃɪp",
+  "us": "tʃɪp"
+ },
+ "a balanced diet": {
+  "uk": "",
+  "us": "ə ˈbælənst ˈdaɪət"
+ },
+ "dairy product": {
+  "uk": "",
+  "us": ""
+ },
+ "stay away from": {
+  "uk": "",
+  "us": "steɪ əˈweɪ frəm"
+ },
+ "fried food": {
+  "uk": "",
+  "us": "fraɪd fuːd"
+ },
+ "medical examination": {
+  "uk": "",
+  "us": "ˈmedɪkl ɪɡˌzæmɪˈneɪʃn"
+ },
+ "lose weight": {
+  "uk": "",
+  "us": "luːz weɪt"
+ },
+ "plenty of": {
+  "uk": "",
+  "us": ""
+ },
+ "in general": {
+  "uk": "",
+  "us": "ɪn ˈdʒenrəl"
+ },
+ "treat oneself to sth": {
+  "uk": "",
+  "us": ""
+ },
+ "be prepared to do sth": {
+  "uk": "",
+  "us": ""
+ },
+ "novel": {
+  "uk": "ˈnɒv(ə)l",
+  "us": "ˈnɑːv(ə)l"
+ },
+ "frog": {
+  "uk": "frɒɡ",
+  "us": "frɑːɡ"
+ },
+ "congratulations": {
+  "uk": "kənˌɡrætʃəˈleɪʃ(ə)nz",
+  "us": "kənˌɡrætʃəˈleɪʃ(ə)nz"
+ },
+ "sympathy": {
+  "uk": "ˈsɪmpəθi",
+  "us": "ˈsɪmpəθi"
+ },
+ "steamboat": {
+  "uk": "ˈstiːmbəʊt",
+  "us": "ˈstiːmboʊt"
+ },
+ "steam": {
+  "uk": "stiːm",
+  "us": "stiːm"
+ },
+ "writer": {
+  "uk": "ˈraɪtə(r)",
+  "us": "ˈraɪtər"
+ },
+ "humorous": {
+  "uk": "ˈhjuːmərəs",
+  "us": "ˈhjuːmərəs"
+ },
+ "fence": {
+  "uk": "fens",
+  "us": "fens"
+ },
+ "yard": {
+  "uk": "jɑːd",
+  "us": "jɑːrd"
+ },
+ "board": {
+  "uk": "bɔːd",
+  "us": "bɔːrd"
+ },
+ "progress": {
+  "uk": "ˈprəʊɡres",
+  "us": "ˈprɑːɡres"
+ },
+ "pity": {
+  "uk": "ˈpɪti",
+  "us": "ˈpɪti"
+ },
+ "silence": {
+  "uk": "ˈsaɪləns",
+  "us": "ˈsaɪləns"
+ },
+ "careful": {
+  "uk": "ˈkeəf(ə)l",
+  "us": "ˈkerf(ə)l"
+ },
+ "deal": {
+  "uk": "diːl",
+  "us": "diːl"
+ },
+ "coat": {
+  "uk": "kəʊt",
+  "us": "koʊt"
+ },
+ "celebrated": {
+  "uk": "ˈselɪbreɪtɪd",
+  "us": "ˈselɪbreɪtɪd"
+ },
+ "lead": {
+  "uk": "liːd",
+  "us": "liːd"
+ },
+ "plot": {
+  "uk": "plɒt",
+  "us": "plɑːt"
+ },
+ "lazy": {
+  "uk": "ˈleɪzi",
+  "us": "ˈleɪzi"
+ },
+ "pretend": {
+  "uk": "prɪˈtend",
+  "us": "prɪˈtend"
+ },
+ "have a rest": {
+  "uk": "hæv ə rest",
+  "us": "hæv ərest"
+ },
+ "think of": {
+  "uk": "",
+  "us": ""
+ },
+ "What a pity!": {
+  "uk": "",
+  "us": ""
+ },
+ "go on doing": {
+  "uk": "",
+  "us": ""
+ },
+ "in silence": {
+  "uk": "",
+  "us": "ɪn ˈsaɪləns"
+ },
+ "after a while": {
+  "uk": "",
+  "us": ""
+ },
+ "turn sth over": {
+  "uk": "",
+  "us": ""
+ },
+ "trick sb into doing sth": {
+  "uk": "",
+  "us": ""
+ },
+ "gift": {
+  "uk": "ɡɪft",
+  "us": "ɡɪft"
+ },
+ "graduation": {
+  "uk": "ˌɡrædʒuˈeɪʃ(ə)n",
+  "us": "ˌɡrædʒuˈeɪʃ(ə)n"
+ },
+ "cent": {
+  "uk": "sent",
+  "us": "sent"
+ },
+ "count": {
+  "uk": "kaʊnt",
+  "us": "kaʊnt"
+ },
+ "afford": {
+  "uk": "əˈfɔːd",
+  "us": "əˈfɔːrd"
+ },
+ "knee": {
+  "uk": "niː",
+  "us": "niː"
+ },
+ "sign": {
+  "uk": "saɪn",
+  "us": "saɪn"
+ },
+ "search": {
+  "uk": "sɜːtʃ",
+  "us": "sɜːrtʃ"
+ },
+ "chain": {
+  "uk": "tʃeɪn",
+  "us": "tʃeɪn"
+ },
+ "bill": {
+  "uk": "bɪl",
+  "us": "bɪl"
+ },
+ "draw": {
+  "uk": "drɔː",
+  "us": "drɔː"
+ },
+ "comb": {
+  "uk": "kəʊm",
+  "us": "koʊm"
+ },
+ "accuse": {
+  "uk": "əˈkjuːz",
+  "us": "əˈkjuːz"
+ },
+ "America": {
+  "uk": "əˈmerɪkə",
+  "us": "əˈmerɪkə"
+ },
+ "album": {
+  "uk": "ˈælbəm",
+  "us": "ˈælbəm"
+ },
+ "look for": {
+  "uk": "ˈlʊk fɔː(r)",
+  "us": "ˈlʊk fɔːr"
+ },
+ "at last": {
+  "uk": "",
+  "us": "æt læst"
+ },
+ "fix......on": {
+  "uk": "",
+  "us": ""
+ },
+ "hold out": {
+  "uk": "",
+  "us": ""
+ },
+ "be accused of": {
+  "uk": "",
+  "us": ""
+ },
+ "under the name of": {
+  "uk": "",
+  "us": ""
+ },
+ "Voyage": {
+  "uk": "ˈvɔɪɪdʒ",
+  "us": "ˈvɔɪɪdʒ"
+ },
+ "repetition": {
+  "uk": "ˌrepəˈtɪʃ(ə)n",
+  "us": "ˌrepəˈtɪʃ(ə)n"
+ },
+ "American": {
+  "uk": "əˈmerɪkən",
+  "us": "əˈmerɪkən"
+ },
+ "continent": {
+  "uk": "ˈkɒntɪnənt",
+  "us": "ˈkɑːntɪnənt"
+ },
+ "route": {
+  "uk": "ruːt",
+  "us": "ruːt"
+ },
+ "discovery": {
+  "uk": "dɪˈskʌvəri",
+  "us": "dɪˈskʌvəri"
+ },
+ "official": {
+  "uk": "əˈfɪʃ(ə)l",
+  "us": "əˈfɪʃ(ə)l"
+ },
+ "relation": {
+  "uk": "rɪˈleɪʃ(ə)n",
+  "us": "rɪˈleɪʃn"
+ },
+ "foreign": {
+  "uk": "ˈfɒrən",
+  "us": "ˈfɔːrən"
+ },
+ "fleet": {
+  "uk": "fliːt",
+  "us": "fliːt"
+ },
+ "Africa": {
+  "uk": "ˈæfrɪkə",
+  "us": "ˈæfrɪkə"
+ },
+ "nowhere": {
+  "uk": "ˈnəʊweə(r)",
+  "us": "ˈnoʊwer"
+ },
+ "silk": {
+  "uk": "sɪlk",
+  "us": "sɪlk"
+ },
+ "giraffe": {
+  "uk": "dʒəˈrɑːf",
+  "us": "dʒəˈræf"
+ },
+ "besides": {
+  "uk": "bɪˈsaɪdz",
+  "us": "bɪˈsaɪdz"
+ },
+ "development": {
+  "uk": "dɪˈveləpmənt",
+  "us": "dɪˈveləpmənt"
+ },
+ "region": {
+  "uk": "ˈriːdʒən",
+  "us": "ˈriːdʒən"
+ },
+ "people": {
+  "uk": "ˈpiːp(ə)l",
+  "us": "ˈpiːp(ə)l"
+ },
+ "wealth": {
+  "uk": "welθ",
+  "us": "welθ"
+ },
+ "spread(spread, spread)": {
+  "uk": "",
+  "us": ""
+ },
+ "open up": {
+  "uk": "",
+  "us": ""
+ },
+ "(be) known as": {
+  "uk": "",
+  "us": ""
+ },
+ "as well as": {
+  "uk": "æz wel əz",
+  "us": "æz wel əz"
+ },
+ "lead to": {
+  "uk": "",
+  "us": "liːd tu"
+ },
+ "compare... with": {
+  "uk": "",
+  "us": ""
+ },
+ "set sail": {
+  "uk": "",
+  "us": "set seɪl"
+ },
+ "culture shock": {
+  "uk": "ˈkʌltʃə ʃɒk",
+  "us": ""
+ },
+ "camp": {
+  "uk": "kæmp",
+  "us": "kæmp"
+ },
+ "firework": {
+  "uk": "ˈfaɪəwɜːk",
+  "us": "ˈfaɪərwɜːrk"
+ },
+ "turkey": {
+  "uk": "ˈtɜːki",
+  "us": "ˈtɜːrki"
+ },
+ "international": {
+  "uk": "ˌɪntəˈnæʃ(ə)nəl",
+  "us": "ˌɪntərˈnæʃ(ə)nəl"
+ },
+ "admit": {
+  "uk": "ədˈmɪt",
+  "us": "ædˈmɪt"
+ },
+ "spare": {
+  "uk": "speə(r)",
+  "us": "sper"
+ },
+ "degree": {
+  "uk": "dɪˈɡriː",
+  "us": "dɪˈɡriː"
+ },
+ "manage": {
+  "uk": "ˈmænɪdʒ",
+  "us": "ˈmænɪdʒ"
+ },
+ "idiom": {
+  "uk": "ˈɪdiəm",
+  "us": "ˈɪdiəm"
+ },
+ "pink": {
+  "uk": "pɪŋk",
+  "us": "pɪŋk"
+ },
+ "purple": {
+  "uk": "ˈpɜːp(ə)l",
+  "us": "ˈpɜːrp(ə)l"
+ },
+ "anyway": {
+  "uk": "ˈeniweɪ",
+  "us": "ˈeniweɪ"
+ },
+ "especially": {
+  "uk": "ɪˈspeʃəli",
+  "us": "ɪˈspeʃəli"
+ },
+ "baseball": {
+  "uk": "ˈbeɪsbɔːl",
+  "us": "ˈbeɪsbɔːl"
+ },
+ "national": {
+  "uk": "ˈnæʃ(ə)nəl",
+  "us": "ˈnæʃ(ə)nəl"
+ },
+ "president": {
+  "uk": "ˈprezɪdənt",
+  "us": "ˈprezɪdənt"
+ },
+ "vacation": {
+  "uk": "veɪˈkeɪʃ(ə)n",
+  "us": "veɪˈkeɪʃ(ə)n"
+ },
+ "schedule": {
+  "uk": "ˈʃedjuːl",
+  "us": "ˈskedʒuːl"
+ },
+ "take off": {
+  "uk": "ˈteɪk ɒf",
+  "us": "ˈteɪk ɔːf"
+ },
+ "in one's spare time": {
+  "uk": "",
+  "us": ""
+ },
+ "to a certain degree": {
+  "uk": "",
+  "us": ""
+ },
+ "get used to": {
+  "uk": "",
+  "us": "ɡet juːzd tu"
+ },
+ "under the weather": {
+  "uk": "",
+  "us": ""
+ },
+ "whatever": {
+  "uk": "wɒtˈevə(r)",
+  "us": "wətˈevər"
+ },
+ "concern": {
+  "uk": "kənˈsɜːn",
+  "us": "kənˈsɜːrn"
+ },
+ "atmosphere": {
+  "uk": "ˈætməsfɪə(r)",
+  "us": "ˈætməsfɪr"
+ },
+ "temperature": {
+  "uk": "ˈtemprətʃə(r)",
+  "us": "ˈtemprətʃər; ˈtemprətʃʊr"
+ },
+ "consumer": {
+  "uk": "kənˈsjuːmə(r)",
+  "us": "kənˈsuːmər"
+ },
+ "guess": {
+  "uk": "ɡes",
+  "us": "ɡes"
+ },
+ "green": {
+  "uk": "ɡriːn",
+  "us": "ɡriːn"
+ },
+ "lifeless": {
+  "uk": "ˈlaɪfləs",
+  "us": "ˈlaɪfləs"
+ },
+ "fuel": {
+  "uk": "ˈfjuːəl",
+  "us": "ˈfjuːəl"
+ },
+ "coal": {
+  "uk": "kəʊl",
+  "us": "koʊl"
+ },
+ "destroy": {
+  "uk": "dɪˈstrɔɪ",
+  "us": "dɪˈstrɔɪ"
+ },
+ "nature": {
+  "uk": "ˈneɪtʃə(r)",
+  "us": "ˈneɪtʃər"
+ },
+ "soil": {
+  "uk": "sɔɪl",
+  "us": "sɔɪl"
+ },
+ "flood": {
+  "uk": "flʌd",
+  "us": "flʌd"
+ },
+ "habit": {
+  "uk": "ˈhæbɪt",
+  "us": "ˈhæbɪt"
+ },
+ "proper": {
+  "uk": "ˈprɒpə(r)",
+  "us": "ˈprɑːpər"
+ },
+ "friendly": {
+  "uk": "ˈfrendli",
+  "us": "ˈfrendli"
+ },
+ "recycle": {
+  "uk": "ˌriːˈsaɪkl",
+  "us": "ˌriːˈsaɪk(ə)l"
+ },
+ "purpose": {
+  "uk": "ˈpɜːpəs",
+  "us": "ˈpɜːrpəs"
+ },
+ "greenhouse effect": {
+  "uk": "",
+  "us": "ˈɡriːnhaʊs ɪˈfekt"
+ },
+ "in danger": {
+  "uk": "",
+  "us": ""
+ },
+ "as a result of": {
+  "uk": "",
+  "us": ""
+ },
+ "result in": {
+  "uk": "",
+  "us": "rɪˈzʌlt ɪn"
+ },
+ "mountains of": {
+  "uk": "",
+  "us": ""
+ },
+ "take action": {
+  "uk": "",
+  "us": "teɪk ˈækʃn"
+ },
+ "act as": {
+  "uk": "ækt æz",
+  "us": "ækt æz"
+ },
+ "asteroid": {
+  "uk": "ˈæstərɔɪd",
+  "us": "ˈæstərɔɪd"
+ },
+ "typhoon": {
+  "uk": "taɪˈfuːn",
+  "us": "taɪˈfuːn"
+ },
+ "earthquake": {
+  "uk": "ˈɜːθkweɪk",
+  "us": "ˈɜːrθkweɪk"
+ },
+ "melt": {
+  "uk": "melt",
+  "us": "melt"
+ },
+ "badly": {
+  "uk": "ˈbædli",
+  "us": "ˈbædli"
+ },
+ "pool": {
+  "uk": "puːl",
+  "us": "puːl"
+ },
+ "coach": {
+  "uk": "kəʊtʃ",
+  "us": "koʊtʃ"
+ },
+ "boss": {
+  "uk": "bɒs",
+  "us": "bɔːs"
+ },
+ "deaf": {
+  "uk": "def",
+  "us": "def"
+ },
+ "stare": {
+  "uk": "steə(r)",
+  "us": "ster"
+ },
+ "screen": {
+  "uk": "skriːn",
+  "us": "skriːn"
+ },
+ "awake (awoke, awoken)": {
+  "uk": "",
+  "us": ""
+ },
+ "immediately": {
+  "uk": "ɪˈmiːdiətli",
+  "us": "ɪˈmiːdiətli"
+ },
+ "missing": {
+  "uk": "ˈmɪsɪŋ",
+  "us": "ˈmɪsɪŋ"
+ },
+ "fellow": {
+  "uk": "ˈfeləʊ",
+  "us": "ˈfeloʊ"
+ },
+ "pass by": {
+  "uk": "",
+  "us": "pæs baɪ"
+ },
+ "stick with": {
+  "uk": "",
+  "us": "stɪk wɪð"
+ },
+ "sit around": {
+  "uk": "",
+  "us": "sɪt əˈraʊnd"
+ },
+ "have no time to do": {
+  "uk": "",
+  "us": ""
+ },
+ "fall on deaf ears": {
+  "uk": "",
+  "us": ""
+ },
+ "stare at": {
+  "uk": "",
+  "us": ""
+ },
+ "in surprise": {
+  "uk": "",
+  "us": ""
+ },
+ "for now": {
+  "uk": "",
+  "us": ""
+ },
+ "survival kit": {
+  "uk": "səˈvaɪvl kɪt",
+  "us": ""
+ },
+ "natural disaster": {
+  "uk": "",
+  "us": ""
+ },
+ "announcement": {
+  "uk": "əˈnaʊnsmənt",
+  "us": "əˈnaʊnsmənt"
+ },
+ "passport": {
+  "uk": "ˈpɑːspɔːt",
+  "us": "ˈpæspɔːrt"
+ },
+ "the Pacific": {
+  "uk": "ðə pəˈsɪfɪk",
+  "us": "ðə pəˈsɪfɪk"
+ },
+ "Canada": {
+  "uk": "ˈkænədə",
+  "us": "ˈkænədə"
+ },
+ "resort": {
+  "uk": "rɪˈzɔːt",
+  "us": "rɪˈzɔːrt"
+ },
+ "Canadian": {
+  "uk": "kəˈneɪdiən",
+  "us": "kəˈneɪdiən"
+ },
+ "slope": {
+  "uk": "sləʊp",
+  "us": "sloʊp"
+ },
+ "opposite": {
+  "uk": "ˈɒpəzɪt",
+  "us": "ˈɑːpəzɪt"
+ },
+ "couple": {
+  "uk": "ˈkʌp(ə)l",
+  "us": "ˈkʌp(ə)l"
+ },
+ "gentle": {
+  "uk": "ˈdʒent(ə)l",
+  "us": "ˈdʒent(ə)l"
+ },
+ "rope": {
+  "uk": "rəʊp",
+  "us": "roʊp"
+ },
+ "rapid": {
+  "uk": "ˈræpɪd",
+  "us": "ˈræpɪd"
+ },
+ "over": {
+  "uk": "ˈəʊvə(r)",
+  "us": "ˈoʊvər"
+ },
+ "shame": {
+  "uk": "ʃeɪm",
+  "us": "ʃeɪm"
+ },
+ "fee": {
+  "uk": "fiː",
+  "us": "fiː"
+ },
+ "semi-final": {
+  "uk": "ˌsemi ˈfaɪn(ə)l",
+  "us": "ˌsemi ˈfaɪn(ə)l"
+ },
+ "final": {
+  "uk": "ˈfaɪn(ə)l",
+  "us": "ˈfaɪn(ə)l"
+ },
+ "badminton": {
+  "uk": "ˈbædmɪntən",
+  "us": "ˈbædmɪntən"
+ },
+ "stress": {
+  "uk": "stres",
+  "us": "stres"
+ },
+ "(be) dying to (do sth.)": {
+  "uk": "",
+  "us": ""
+ },
+ "check in (at)": {
+  "uk": "",
+  "us": ""
+ },
+ "can't wait to (do sth.)": {
+  "uk": "",
+  "us": ""
+ },
+ "to be honest": {
+  "uk": "",
+  "us": ""
+ },
+ "fall over": {
+  "uk": "",
+  "us": ""
+ },
+ "keep one's balance": {
+  "uk": "",
+  "us": ""
+ },
+ "build up": {
+  "uk": "ˈbɪld ʌp",
+  "us": "ˈbɪld ʌp"
+ },
+ "conduct": {
+  "uk": "kənˈdʌkt",
+  "us": "kənˈdʌkt"
+ },
+ "lifestyle": {
+  "uk": "ˈlaɪfstaɪl",
+  "us": "ˈlaɪfstaɪl"
+ },
+ "quarrel": {
+  "uk": "ˈkwɒrəl",
+  "us": "ˈkwɑːrəl"
+ },
+ "focus": {
+  "uk": "ˈfəʊkəs",
+  "us": "ˈfoʊkəs"
+ },
+ "peer": {
+  "uk": "pɪə(r)",
+  "us": "pɪr"
+ },
+ "pressure": {
+  "uk": "ˈpreʃə(r)",
+  "us": "ˈpreʃər"
+ },
+ "whether": {
+  "uk": "ˈweðə(r)",
+  "us": "ˈweðər"
+ },
+ "risk": {
+  "uk": "rɪsk",
+  "us": "rɪsk"
+ },
+ "positive": {
+  "uk": "ˈpɒzətɪv",
+  "us": "ˈpɑːzətɪv"
+ },
+ "cancel": {
+  "uk": "ˈkæns(ə)l",
+  "us": "ˈkæns(ə)l"
+ },
+ "bright": {
+  "uk": "braɪt",
+  "us": "braɪt"
+ },
+ "force": {
+  "uk": "fɔːs",
+  "us": "fɔːrs"
+ },
+ "concert": {
+  "uk": "ˈkɒnsət",
+  "us": "ˈkɑːnsərt"
+ },
+ "private": {
+  "uk": "ˈpraɪvət",
+  "us": "ˈpraɪvət"
+ },
+ "musical instrument": {
+  "uk": "ˌmjuːzɪkl ˈɪnstrəmənt",
+  "us": "ˌmjuːzɪkl ˈɪnstrəmənt"
+ },
+ "enemy": {
+  "uk": "ˈenəmi",
+  "us": "ˈenəmi"
+ },
+ "cheer": {
+  "uk": "tʃɪə(r)",
+  "us": "tʃɪr"
+ },
+ "eyesight": {
+  "uk": "ˈaɪsaɪt",
+  "us": "ˈaɪsaɪt"
+ },
+ "dentist": {
+  "uk": "ˈdentɪst",
+  "us": "ˈdentɪst"
+ },
+ "recovery": {
+  "uk": "rɪˈkʌvəri",
+  "us": "rɪˈkʌvəri"
+ },
+ "deal with": {
+  "uk": "",
+  "us": "diːl wɪð"
+ },
+ "guard against": {
+  "uk": "",
+  "us": ""
+ },
+ "cancel out": {
+  "uk": "",
+  "us": "ˈkænsl aʊt"
+ },
+ "look on the bright side": {
+  "uk": "",
+  "us": ""
+ },
+ "take up": {
+  "uk": "ˈteɪk ʌp",
+  "us": "ˈteɪk ʌp"
+ },
+ "(be) busy with": {
+  "uk": "",
+  "us": ""
+ },
+ "leave ... behind": {
+  "uk": "",
+  "us": ""
+ },
+ "cheer ... up": {
+  "uk": "",
+  "us": ""
+ }
+}
