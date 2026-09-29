@@ -58,7 +58,7 @@ pyinstaller --noconfirm --clean --onefile --noconsole --name "沪教版七上单
 
 ## 作者与开源
 
-- 作者：**冯晨航**（软件内主菜单署名）
+- 作者：**andy711_null**
 - 协议：本项目源码以 [MIT License](LICENSE) 开源，欢迎 fork、学习与改进。
 
 ## 致谢
